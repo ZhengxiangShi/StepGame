@@ -1,0 +1,3000 @@
+1 Object M is below object W and to the right of it, too.
+2 B and W are side by side with B on the top and W at the bottom.
+3 What is the relation of the agent M to the agent W?	lower-right	1
+1 C is above A and to the right of A.
+2 Q is sitting in the right direction of A.
+3 What is the relation of the agent Q to the agent A?	right	1
+1 A is over there and X is on the left of it.
+2 A is positioned below H and to the left.
+3 What is the relation of the agent H to the agent X?	below	1
+1 I presents over A.
+2 A is on the top of L and is on the same vertical plane.
+3 What is the relation of the agent L to the agent A?	below	1
+1 P is on the top of G and is on the same vertical plane.
+2 R presents upper right to P.
+3 What is the relation of the agent P to the agent G?	above	1
+1 Y is to the top-right of L.
+2 M is sitting at the upper right position to Y.
+3 What is the relation of the agent Y to the agent M?	lower-left	1
+1 Y is on the same vertical plane directly above V.
+2 V is on the upper right of A.
+3 What is the relation of the agent Y to the agent A?	upper-right	1
+1 R is north east of L.
+2 R is sitting at the lower right position to E.
+3 What is the relation of the agent L to the agent R?	lower-left	1
+1 W is at A's 6 o'clock.
+2 A is positioned down and to the left of K.
+3 What is the relation of the agent K to the agent W?	upper-right	1
+1 D is sitting at the lower left position to K.
+2 If K is the center of a clock face, O is located between 2 and 3.
+3 What is the relation of the agent O to the agent K?	upper-right	1
+1 F and P are parallel, and F on the left of P.
+2 Q presents lower left to P.
+3 What is the relation of the agent F to the agent Q?	above	1
+1 E presents below D.
+2 F is below and to the left of E.
+3 What is the relation of the agent F to the agent E?	lower-left	1
+1 J is diagonally below Q to the left at a 45 degree angle.
+2 The object J is positioned above and to the left of object P.
+3 What is the relation of the agent J to the agent P?	upper-left	1
+1 U is to the bottom right of N.
+2 U is below and to the left of Z.
+3 What is the relation of the agent U to the agent N?	lower-right	1
+1 I is at the bottom and L is on the top.
+2 I is below Z with a small gap between them.
+3 What is the relation of the agent L to the agent Z?	overlap	1
+1 A is over there and M is on the right.
+2 M is positioned down and to the left of U.
+3 What is the relation of the agent U to the agent A?	upper-right	1
+1 H and Y are side by side with H on the top and Y at the bottom.
+2 Y is positioned above P and to the right.
+3 What is the relation of the agent Y to the agent P?	upper-right	1
+1 P is sitting at the upper right position to Y.
+2 Z is lower right of P.
+3 What is the relation of the agent P to the agent Z?	upper-left	1
+1 T is placed in the left direction of J.
+2 J is sitting in the right direction of N.
+3 What is the relation of the agent T to the agent N?	overlap	1
+1 S and A are next to each other with A at the bottom S on the top.
+2 S is to the left of X and is on the same horizontal plane.
+3 What is the relation of the agent X to the agent A?	upper-right	1
+1 I and U are parallel, and I on the right of U.
+2 U is at the bottom and L is on the top.
+3 What is the relation of the agent U to the agent I?	right	1
+1 V and O are parallel, and V is over O.
+2 N is to the left of V horizontally.
+3 What is the relation of the agent V to the agent O?	above	1
+1 I is on the lower right of D.
+2 I is over there and E is on the right.
+3 What is the relation of the agent I to the agent D?	lower-right	1
+1 U is below I and to the right of I.
+2 I is diagonally to the bottom right of B.
+3 What is the relation of the agent U to the agent I?	lower-right	1
+1 The object M is upper and slightly to the right of the object T.
+2 M is placed at the lower left of N.
+3 What is the relation of the agent N to the agent M?	upper-right	1
+1 R is to the left of Y and is on the same horizontal plane.
+2 K and R are vertical and K is above R.
+3 What is the relation of the agent K to the agent R?	above	1
+1 H is positioned left to S.
+2 U and S are side by side with S at the bottom and U on the top.
+3 What is the relation of the agent U to the agent H?	upper-right	1
+1 H is positioned in the lower left corner of X.
+2 D is on the top side to H.
+3 What is the relation of the agent H to the agent D?	below	1
+1 N is above and to the right of A.
+2 B is sitting at the lower left position to N.
+3 What is the relation of the agent B to the agent N?	lower-left	1
+1 Y is on the upper right of P.
+2 Y is positioned above W.
+3 What is the relation of the agent W to the agent P?	right	1
+1 P is sitting at the 3:00 position to E.
+2 S is to the left of E horizontally.
+3 What is the relation of the agent S to the agent E?	left	1
+1 F and T are next to each other with T at the bottom F on the top.
+2 The objects F and A are over there. The object F is above and slightly to the right of the object A.
+3 What is the relation of the agent A to the agent T?	left	1
+1 D and Y are parallel, and D is to the left of Y.
+2 I is at a 45 degree angle to Y, in the lower lefthand corner.
+3 What is the relation of the agent D to the agent I?	above	1
+1 F is to the left of E with a small gap between them.
+2 F is diagonally right and above U.
+3 What is the relation of the agent E to the agent F?	right	1
+1 C is at a 45 degree angle to S, in the upper righthand corner.
+2 Z is directly south west of S.
+3 What is the relation of the agent Z to the agent S?	lower-left	1
+1 O is lower left to Y.
+2 Y is to the bottom right of J.
+3 What is the relation of the agent O to the agent J?	below	1
+1 I is upper right to A.
+2 I is at J's 6 o'clock.
+3 What is the relation of the agent J to the agent A?	upper-right	1
+1 V is on the same vertical plane directly below X.
+2 U is sitting at the upper right position to X.
+3 What is the relation of the agent X to the agent V?	above	1
+1 O and L are in a horizontal line with L on the right.
+2 R is to the left of L and is on the same horizontal plane.
+3 What is the relation of the agent L to the agent O?	right	1
+1 The objects A and N are over there. The object A is above and slightly to the right of the object N.
+2 H is positioned up and to the right of A.
+3 What is the relation of the agent N to the agent A?	lower-left	1
+1 C is to the right and above W at an angle of about 45 degrees.
+2 W is sitting at the lower left position to J.
+3 What is the relation of the agent W to the agent J?	lower-left	1
+1 L and H are parallel, and L on the left of H.
+2 L is positioned below Q.
+3 What is the relation of the agent L to the agent Q?	below	1
+1 K is placed at the upper left of J.
+2 J is at I's 6 o'clock.
+3 What is the relation of the agent J to the agent K?	lower-right	1
+1 The object C is positioned directly above the object G.
+2 A is on the right and G is on the left.
+3 What is the relation of the agent G to the agent A?	left	1
+1 C is slightly off center to the top left and H is slightly off center to the bottom right.
+2 O is over there and C is on the right of it.
+3 What is the relation of the agent O to the agent C?	left	1
+1 S is diagonally left and below F.
+2 D and S are vertical and D is below S.
+3 What is the relation of the agent F to the agent D?	upper-right	1
+1 E and F are side by side with E to the left and F to the right.
+2 The object O is positioned below and to the left of the object E.
+3 What is the relation of the agent O to the agent F?	lower-left	1
+1 T is directly south east of F.
+2 F is upper left of O.
+3 What is the relation of the agent O to the agent F?	lower-right	1
+1 Z is placed in the left direction of J.
+2 F is positioned below and to the right of J.
+3 What is the relation of the agent J to the agent Z?	right	1
+1 Object D is below object I and to the left of it, too.
+2 L is positioned below and to the right of D.
+3 What is the relation of the agent I to the agent L?	above	1
+1 R presents upper left to A.
+2 R is above X and to the right of X.
+3 What is the relation of the agent A to the agent X?	right	1
+1 The object K is positioned above and to the right of the object H.
+2 N is over there and H is on the top of it.
+3 What is the relation of the agent H to the agent K?	lower-left	1
+1 W is at the 3 o'clock position relative to P.
+2 W is sitting at the lower position to L.
+3 What is the relation of the agent W to the agent P?	right	1
+1 Z is above P and to the right of P.
+2 O is to the right of Z horizontally.
+3 What is the relation of the agent P to the agent Z?	lower-left	1
+1 R presents over T.
+2 G is directly south east of T.
+3 What is the relation of the agent T to the agent R?	below	1
+1 Object O is above object M and to the left of it, too.
+2 O and A are next to each other with A on the right and O on the left.
+3 What is the relation of the agent A to the agent O?	right	1
+1 U is at the 9 o'clock position relative to X.
+2 U and O are parallel, and U is over O.
+3 What is the relation of the agent O to the agent U?	below	1
+1 J is sitting at the top position to A.
+2 J is diagonally below Z to the right at a 45 degree angle.
+3 What is the relation of the agent A to the agent J?	below	1
+1 L is lower right of O.
+2 U and O are both there with the object U is to the left of object O.
+3 What is the relation of the agent U to the agent L?	upper-left	1
+1 I is positioned above B and to the right.
+2 D is sitting at the 12:00 position to I.
+3 What is the relation of the agent B to the agent I?	lower-left	1
+1 C is on the top of F and is on the same vertical plane.
+2 O is positioned above C and to the right.
+3 What is the relation of the agent F to the agent O?	lower-left	1
+1 E is there and Z is at the 2 position of a clock face E.
+2 Z is placed in the right direction of A.
+3 What is the relation of the agent Z to the agent A?	right	1
+1 B is placed at the lower left of D.
+2 D is south east of Z.
+3 What is the relation of the agent Z to the agent B?	above	1
+1 P is on the lower right of H.
+2 Y is on the left and H is on the right.
+3 What is the relation of the agent Y to the agent P?	upper-left	1
+1 W is on the lower right of H.
+2 P and H are in a horizontal line with P on the left.
+3 What is the relation of the agent H to the agent P?	right	1
+1 P is placed at the upper right of Q.
+2 I and Q are parallel, and I on the left of Q.
+3 What is the relation of the agent Q to the agent I?	right	1
+1 The objects W and B are over there. The object W is above and slightly to the right of the object B.
+2 V is placed at the upper right of B.
+3 What is the relation of the agent B to the agent V?	lower-left	1
+1 T is south east of M.
+2 M and Q are parallel, and M on the left of Q.
+3 What is the relation of the agent M to the agent T?	upper-left	1
+1 N is positioned in the front right corner of I.
+2 N is diagonally to the upper right of O.
+3 What is the relation of the agent N to the agent O?	lower-left	1
+1 P is directly south west of E.
+2 E is positioned right to N.
+3 What is the relation of the agent N to the agent E?	left	1
+1 S is over there and K is on the right of it.
+2 P is at S's 6 o'clock.
+3 What is the relation of the agent S to the agent K?	left	1
+1 The object O is upper and slightly to the right of the object V.
+2 R is slightly off center to the top left and V is slightly off center to the bottom right.
+3 What is the relation of the agent R to the agent V?	upper-left	1
+1 N is at the bottom of W vertically.
+2 N is positioned up and to the right of A.
+3 What is the relation of the agent N to the agent A?	upper-right	1
+1 X is sitting at the 3:00 position to I.
+2 X is at the bottom and E is on the top.
+3 What is the relation of the agent I to the agent E?	lower-left	1
+1 Q is to the top of V vertically.
+2 Q and K are vertical and Q is above K.
+3 What is the relation of the agent Q to the agent K?	above	1
+1 U and J are next to each other with U on the top and J at the bottom.
+2 J is below and to the right of A.
+3 What is the relation of the agent J to the agent A?	lower-right	1
+1 E and Z are parallel, and E is on top of Z.
+2 D is to the bottom-right of E.
+3 What is the relation of the agent D to the agent Z?	right	1
+1 Object K is above object Y and to the left of it, too.
+2 V is on the same horizontal plane directly right to Y.
+3 What is the relation of the agent V to the agent Y?	right	1
+1 I is sitting at the 3:00 position to K.
+2 I presents lower right to P.
+3 What is the relation of the agent K to the agent I?	left	1
+1 N is to the left of F horizontally.
+2 F is positioned left to X.
+3 What is the relation of the agent X to the agent F?	right	1
+1 H is diagonally above G to the right at a 45 degree.
+2 H presents left to M.
+3 What is the relation of the agent H to the agent M?	left	1
+1 V presents lower left to M.
+2 L and M are side by side with L to the right and M to the left.
+3 What is the relation of the agent V to the agent M?	lower-left	1
+1 M is positioned in the lower left corner of J.
+2 K is diagonally to the upper left of M.
+3 What is the relation of the agent K to the agent J?	left	1
+1 X is positioned above T and to the left.
+2 T is south west of J.
+3 What is the relation of the agent J to the agent X?	right	1
+1 A and U are in a horizontal line with U on the right.
+2 U is there and W is at the 10 position of a clock face.
+3 What is the relation of the agent U to the agent W?	lower-right	1
+1 Z is over there with C below.
+2 C is at the lower side of T.
+3 What is the relation of the agent C to the agent T?	below	1
+1 D is sitting at the lower position to B.
+2 B is positioned below and to the right of R.
+3 What is the relation of the agent R to the agent B?	upper-left	1
+1 L is on the same horizontal plane directly left to K.
+2 Z is on the right side and top of L.
+3 What is the relation of the agent L to the agent K?	left	1
+1 O is above and to the left of H.
+2 P is over there and H is on the left.
+3 What is the relation of the agent H to the agent O?	lower-right	1
+1 A is directly south east of X.
+2 The object V and X are there. The object X is above and slightly to the left of the object V.
+3 What is the relation of the agent V to the agent X?	lower-right	1
+1 B is on the right side to Y.
+2 Y is above J.
+3 What is the relation of the agent J to the agent B?	lower-left	1
+1 U and V are parallel, and U on the right of V.
+2 U is below and to the right of F.
+3 What is the relation of the agent F to the agent U?	upper-left	1
+1 O is over there with T above.
+2 The objects U and T are over there. The object U is lower and slightly to the left of the object T.
+3 What is the relation of the agent O to the agent T?	below	1
+1 D is diagonally right and below K.
+2 G is to the right of K and is on the same horizontal plane.
+3 What is the relation of the agent D to the agent K?	lower-right	1
+1 K and Z are in a vertical line with K on top.
+2 Z is on the same horizontal plane directly right to T.
+3 What is the relation of the agent Z to the agent T?	right	1
+1 Object A is above object U and to the right of it, too.
+2 U is at X's 12 o'clock.
+3 What is the relation of the agent U to the agent L?	upper-right	1
+1 L is sitting in the left direction of U.
+2 The object D and U are there. The object U is above and slightly to the left of the object D.
+3 What is the relation of the agent D to the agent U?	lower-right	1
+1 J is positioned right to Q.
+2 H is below J and to the left of J.
+3 What is the relation of the agent H to the agent Q?	below	1
+1 K is to the right of M.
+2 P is positioned below and to the right of K.
+3 What is the relation of the agent K to the agent P?	upper-left	1
+1 E is positioned below K.
+2 E is lower left to Q.
+3 What is the relation of the agent E to the agent K?	below	1
+1 If F is the center of a clock face, A is located between 7 and 8.
+2 A is sitting in the right direction of X.
+3 What is the relation of the agent X to the agent A?	left	1
+1 Object D is below object X and to the left of it, too.
+2 I is sitting at the 3:00 position to X.
+3 What is the relation of the agent D to the agent I?	lower-left	1
+1 E is over there and R is directly above it.
+2 U and R are next to each other with R at the bottom U on the top.
+3 What is the relation of the agent U to the agent E?	above	1
+1 D is to the right of V.
+2 V is placed at the lower right of G.
+3 What is the relation of the agent G to the agent V?	upper-left	1
+1 B and V are parallel, and B is to the right of V.
+2 Object A is above object M and to the right of it, too.
+3 What is the relation of the agent V to the agent M?	below	1
+1 F is positioned below and to the right of I.
+2 I is below T with a small gap between them.
+3 What is the relation of the agent I to the agent T?	below	1
+1 D is positioned above K and to the right.
+2 P and K are side by side with P on the top and K at the bottom.
+3 What is the relation of the agent P to the agent K?	above	1
+1 A is to the right of C with a small gap between them.
+2 Q is diagonally right and below A.
+3 What is the relation of the agent Q to the agent A?	lower-right	1
+1 Object L is below object W and to the left of it, too.
+2 W presents lower left to T.
+3 What is the relation of the agent W to the agent T?	lower-left	1
+1 L is to the top-right of W.
+2 W is to the left of M and is on the same horizontal plane.
+3 What is the relation of the agent W to the agent M?	left	1
+1 D is sitting at the 12:00 position to H.
+2 D is diagonally right and above C.
+3 What is the relation of the agent C to the agent H?	left	1
+1 T is there and V is at the 2 position of a clock face T.
+2 V is on the right side to R.
+3 What is the relation of the agent R to the agent V?	left	1
+1 U is to the right of Q horizontally.
+2 U is to the right of L and is on the same horizontal plane.
+3 What is the relation of the agent U to the agent Q?	right	1
+1 Z is placed at the upper left of W.
+2 P is lower left to Z.
+3 What is the relation of the agent Z to the agent P?	upper-right	1
+1 H and V are side by side with H to the left and V to the right.
+2 H is to the right of C with a small gap between them.
+3 What is the relation of the agent C to the agent V?	left	1
+1 N and V are side by side with N to the right and V to the left.
+2 Z is diagonally below V to the right at a 45 degree angle.
+3 What is the relation of the agent V to the agent N?	left	1
+1 E presents lower left to W.
+2 E is there and B is at the 5 position of a clock face.
+3 What is the relation of the agent E to the agent W?	lower-left	1
+1 Y is positioned below and to the right of Z.
+2 E presents over Z.
+3 What is the relation of the agent Z to the agent E?	below	1
+1 G is placed at the upper right of J.
+2 G is diagonally to the bottom left of H.
+3 What is the relation of the agent G to the agent H?	lower-left	1
+1 Z presents right to C.
+2 Object Z is below object W and to the right of it, too.
+3 What is the relation of the agent C to the agent W?	below	1
+1 J and E are side by side with J on the top and E at the bottom.
+2 The object E and B are there. The object E is below and slightly to the right of the object B.
+3 What is the relation of the agent E to the agent J?	below	1
+1 The object labeled O is positioned to the right of the object labeled Z.
+2 I is diagonally to the upper right of Z.
+3 What is the relation of the agent I to the agent Z?	lower-left	1
+1 Object C is above object W and to the left of it, too.
+2 W is positioned above B and to the left.
+3 What is the relation of the agent W to the agent B?	upper-left	1
+1 C is at the 9 o'clock position relative to M.
+2 The object L and C are there. The object L is below and slightly to the right of the object C.
+3 What is the relation of the agent L to the agent M?	below	1
+1 E is on the left side to W.
+2 E is on the top side to K.
+3 What is the relation of the agent E to the agent W?	left	1
+1 B is at the 12 o'clock position relative to J.
+2 G is below J at 7 o'clock.
+3 What is the relation of the agent J to the agent B?	below	1
+1 N and K are horizontal and N is to the right of K.
+2 R is slightly off center to the top left and N is slightly off center to the bottom right.
+3 What is the relation of the agent K to the agent R?	lower-right	1
+1 T is to the right and above N at an angle of about 45 degrees.
+2 T is to the left of F with a small gap between them.
+3 What is the relation of the agent F to the agent T?	right	1
+1 H is positioned up and to the right of Z.
+2 O is above and to the left of Z.
+3 What is the relation of the agent Z to the agent H?	lower-left	1
+1 J presents lower left to R.
+2 R and V are vertical and R is above V.
+3 What is the relation of the agent V to the agent J?	right	1
+1 O is positioned in the front right corner of B.
+2 If O is the center of a clock face, L is located between 4 and 5.
+3 What is the relation of the agent L to the agent O?	lower-right	1
+1 Y presents upper left to I.
+2 G is diagonally below Y to the right at a 45 degree angle.
+3 What is the relation of the agent Y to the agent G?	upper-left	1
+1 The object B and H are there. The object B is below and slightly to the right of the object H.
+2 U is on the top and H is at the bottom.
+3 What is the relation of the agent B to the agent H?	lower-right	1
+1 P presents below C.
+2 K is diagonally below C to the left at a 45 degree angle.
+3 What is the relation of the agent P to the agent K?	upper-right	1
+1 The objects X and S are over there. The object X is above and slightly to the right of the object S.
+2 H is positioned below X.
+3 What is the relation of the agent X to the agent H?	above	1
+1 The object I is positioned directly above the object H.
+2 The object M and I are there. The object I is above and slightly to the left of the object M.
+3 What is the relation of the agent M to the agent H?	right	1
+1 The object A is positioned above and to the left of object G.
+2 A is over there and T is directly below it.
+3 What is the relation of the agent G to the agent A?	lower-right	1
+1 M and P are next to each other with M on the top and P at the bottom.
+2 P is on the left side of and below V.
+3 What is the relation of the agent P to the agent M?	below	1
+1 Object F is below object H and to the right of it, too.
+2 H is to the right of G.
+3 What is the relation of the agent G to the agent H?	left	1
+1 L is under N.
+2 B is there and L is at the 2 position of a clock face B.
+3 What is the relation of the agent N to the agent L?	above	1
+1 J is to the upper left of V.
+2 J and U are side by side with U at the bottom and J on the top.
+3 What is the relation of the agent U to the agent J?	below	1
+1 If B is the center of a clock face, U is located between 10 and 11.
+2 X and U are parallel, and X is over U.
+3 What is the relation of the agent U to the agent B?	upper-left	1
+1 V is under N.
+2 N is at the bottom of T vertically.
+3 What is the relation of the agent N to the agent T?	below	1
+1 K is placed at the upper right of Z.
+2 I is to the left of K with a small gap between them.
+3 What is the relation of the agent Z to the agent K?	lower-left	1
+1 V and A are next to each other with V on the left and A on the right.
+2 A and J are next to each other with A on the top and J at the bottom.
+3 What is the relation of the agent J to the agent A?	below	1
+1 K is diagonally above L to the left at a 45 degree angle.
+2 L is positioned in the front right corner of R.
+3 What is the relation of the agent K to the agent R?	above	1
+1 D is upper right to N.
+2 M is directly south west of N.
+3 What is the relation of the agent D to the agent M?	upper-right	1
+1 The object X and A are there. The object X is below and slightly to the right of the object A.
+2 F is sitting at the 3:00 position to A.
+3 What is the relation of the agent A to the agent F?	left	1
+1 B is on the left side to A.
+2 C is to the left of B.
+3 What is the relation of the agent B to the agent C?	right	1
+1 E is to the left of N and below N at approximately a 45 degree angle.
+2 E is positioned above T.
+3 What is the relation of the agent T to the agent N?	lower-left	1
+1 E is positioned below B and to the left.
+2 B is above A and to the left of A.
+3 What is the relation of the agent E to the agent B?	upper-right	1
+1 C is sitting at the lower right position to T.
+2 H and C are both there with the object C below the object H.
+3 What is the relation of the agent H to the agent T?	right	1
+1 U is at the 3 o'clock position relative to V.
+2 F is on the left side and above U.
+3 What is the relation of the agent F to the agent V?	above	1
+1 U presents right to O.
+2 P is positioned below O.
+3 What is the relation of the agent U to the agent P?	upper-right	1
+1 The object X is upper and slightly to the right of the object N.
+2 K is on the left and X is on the right.
+3 What is the relation of the agent N to the agent K?	below	1
+1 O is to the top-right of V.
+2 O is positioned below Y and to the right.
+3 What is the relation of the agent V to the agent Y?	below	1
+1 R is above K at 10 o'clock.
+2 The object R is lower and slightly to the left of the object Q.
+3 What is the relation of the agent K to the agent R?	lower-right	1
+1 L is on the upper right of T.
+2 The objects L and Q are over there. The object L is above and slightly to the right of the object Q.
+3 What is the relation of the agent L to the agent T?	upper-right	1
+1 If C is the center of a clock face, F is located between 4 and 5.
+2 C and P are horizontal and C is to the right of P.
+3 What is the relation of the agent P to the agent F?	above	1
+1 G and F are both there with the object F below the object G.
+2 G is above X with a small gap between them.
+3 What is the relation of the agent F to the agent G?	below	1
+1 C is diagonally below Z to the right at a 45 degree angle.
+2 C is directly north east of I.
+3 What is the relation of the agent I to the agent Z?	below	1
+1 Object G is above object F and to the left of it, too.
+2 Z is sitting at the 9:00 position of F.
+3 What is the relation of the agent Z to the agent G?	below	1
+1 The object B is positioned directly below the object V.
+2 B is on the left side of and below G.
+3 What is the relation of the agent G to the agent B?	upper-right	1
+1 N is to the bottom left of B.
+2 F is positioned right to B.
+3 What is the relation of the agent B to the agent F?	left	1
+1 P is positioned left to S.
+2 R is below and to the right of P.
+3 What is the relation of the agent S to the agent P?	right	1
+1 D and H are next to each other with D on the left and H on the right.
+2 D is at the bottom of M and is on the same vertical plane.
+3 What is the relation of the agent M to the agent H?	lower-left	1
+1 S is over there and O is on the right.
+2 S is to the top right of A.
+3 What is the relation of the agent A to the agent O?	lower-left	1
+1 C is on the right side to X.
+2 F and C are in a horizontal line with C on the right.
+3 What is the relation of the agent C to the agent F?	right	1
+1 The object labeled W is positioned to the right of the object labeled Y.
+2 L is below and to the right of Y.
+3 What is the relation of the agent L to the agent Y?	lower-right	1
+1 L is positioned right to B.
+2 B is to the bottom left of J.
+3 What is the relation of the agent B to the agent L?	left	1
+1 I is at the bottom of R and is on the same vertical plane.
+2 I is positioned down and to the left of Q.
+3 What is the relation of the agent I to the agent Q?	lower-left	1
+1 V and J are vertical and V is above J.
+2 V is there and Y is at the 10 position of a clock face.
+3 What is the relation of the agent Y to the agent V?	lower-left	1
+1 H is there and N is at the 10 position of a clock face.
+2 E is sitting at the lower position to H.
+3 What is the relation of the agent N to the agent H?	lower-left	1
+1 R is diagonally below Z to the right at a 45 degree angle.
+2 R is to the bottom-right of Y.
+3 What is the relation of the agent R to the agent Z?	lower-right	1
+1 T is to the left of S and is on the same horizontal plane.
+2 D is to the top of S vertically.
+3 What is the relation of the agent S to the agent D?	below	1
+1 O is positioned below H and to the right.
+2 Z is on the top of O and is on the same vertical plane.
+3 What is the relation of the agent H to the agent O?	upper-left	1
+1 The objects V and A are over there. The object V is lower and slightly to the left of the object A.
+2 V is positioned left to N.
+3 What is the relation of the agent N to the agent A?	below	1
+1 T is slightly off center to the top left and J is slightly off center to the bottom right.
+2 J is there and P is at the 10 position of a clock face.
+3 What is the relation of the agent J to the agent P?	upper-right	1
+1 W is to the bottom left of P.
+2 E is at the bottom and W is on the top.
+3 What is the relation of the agent E to the agent W?	below	1
+1 N presents upper right to K.
+2 N is south east of O.
+3 What is the relation of the agent O to the agent K?	above	1
+1 H and Q are parallel, and H is under Q.
+2 E is on the left side to Q.
+3 What is the relation of the agent H to the agent Q?	below	1
+1 H is below A at 4 o'clock.
+2 H is sitting at the lower position to X.
+3 What is the relation of the agent X to the agent H?	above	1
+1 M is below J at 7 o'clock.
+2 R presents over M.
+3 What is the relation of the agent R to the agent M?	above	1
+1 J is sitting in the left direction of B.
+2 X is over there and B is directly above it.
+3 What is the relation of the agent J to the agent B?	left	1
+1 W is at a 45 degree angle to F, in the lower lefthand corner.
+2 The object J is upper and slightly to the right of the object F.
+3 What is the relation of the agent J to the agent F?	upper-right	1
+1 E is to the right of U horizontally.
+2 U is south east of D.
+3 What is the relation of the agent U to the agent E?	left	1
+1 X is to the top right of N.
+2 The object N is positioned directly below the object W.
+3 What is the relation of the agent W to the agent N?	above	1
+1 Object J is below object L and to the left of it, too.
+2 J is over there and U is on the left of it.
+3 What is the relation of the agent J to the agent U?	right	1
+1 C is sitting at the 6:00 position to K.
+2 K is positioned down and to the left of W.
+3 What is the relation of the agent C to the agent W?	lower-left	1
+1 B is diagonally to the upper right of Y.
+2 Y is diagonally right and above F.
+3 What is the relation of the agent F to the agent B?	overlap	1
+1 Q is on the right and K is on the left.
+2 Q presents lower left to F.
+3 What is the relation of the agent Q to the agent F?	lower-left	1
+1 Y is to the bottom-left of Z.
+2 Y and Q are both there with the object Y is to the right of object Q.
+3 What is the relation of the agent Q to the agent Z?	below	1
+1 H is at K’s 9 o'clock.
+2 H is above E.
+3 What is the relation of the agent E to the agent H?	below	1
+1 Y is to the right and above L at an angle of about 45 degrees.
+2 L is at a 45 degree angle to B, in the upper righthand corner.
+3 What is the relation of the agent B to the agent L?	lower-left	1
+1 E is on the same horizontal plane directly left to C.
+2 A and E are in a horizontal line with E on the right.
+3 What is the relation of the agent E to the agent C?	left	1
+1 N is above Y at 2 o'clock.
+2 N is sitting at the 9:00 position of Z.
+3 What is the relation of the agent Z to the agent Y?	upper-right	1
+1 U is positioned in the lower left corner of L.
+2 L is diagonally right and below X.
+3 What is the relation of the agent U to the agent X?	below	1
+1 Q and M are parallel, and Q is under M.
+2 M is diagonally to the bottom left of U.
+3 What is the relation of the agent U to the agent M?	upper-right	1
+1 N is lower left to U.
+2 I is below N and to the right of N.
+3 What is the relation of the agent I to the agent N?	lower-right	1
+1 R is above B and to the right of B.
+2 R is on the same horizontal plane directly right to Y.
+3 What is the relation of the agent R to the agent Y?	right	1
+1 B is under M.
+2 B presents over W.
+3 What is the relation of the agent W to the agent B?	below	1
+1 S is to the bottom left of Q.
+2 Q is below P at 4 o'clock.
+3 What is the relation of the agent P to the agent Q?	upper-left	1
+1 If T is the center of a clock face, K is located between 2 and 3.
+2 T is directly above M.
+3 What is the relation of the agent K to the agent M?	upper-right	1
+1 U is to the top right of F.
+2 F is at W's 3 o'clock.
+3 What is the relation of the agent W to the agent F?	left	1
+1 R is over there and G is directly below it.
+2 G is to the bottom right of X.
+3 What is the relation of the agent R to the agent G?	above	1
+1 O is on the right side and below I.
+2 X is sitting at the 9:00 position of I.
+3 What is the relation of the agent X to the agent O?	upper-left	1
+1 H is over there and Q is on the left.
+2 C is above and to the left of Q.
+3 What is the relation of the agent Q to the agent H?	left	1
+1 T is sitting at the 6:00 position to Q.
+2 Q is diagonally above W to the left at a 45 degree angle.
+3 What is the relation of the agent W to the agent T?	right	1
+1 A is over there and E is on the right.
+2 S is diagonally to the bottom left of E.
+3 What is the relation of the agent A to the agent E?	left	1
+1 N is sitting in the left direction of V.
+2 V is over there and D is on the left.
+3 What is the relation of the agent D to the agent V?	left	1
+1 G is placed at the upper left of T.
+2 T and W are parallel, and T is to the right of W.
+3 What is the relation of the agent W to the agent G?	lower-right	1
+1 R is on the upper right of U.
+2 L is sitting at the 3:00 position to R.
+3 What is the relation of the agent L to the agent U?	upper-right	1
+1 A is over there and T is on the left of it.
+2 A is at a 45 degree angle to X, in the lower lefthand corner.
+3 What is the relation of the agent X to the agent T?	upper-right	1
+1 V is to the top of R vertically.
+2 W and R are parallel, and W on the right of R.
+3 What is the relation of the agent V to the agent R?	above	1
+1 C is over there and B is on the left of it.
+2 X is below B with a small gap between them.
+3 What is the relation of the agent C to the agent B?	right	1
+1 L is directly north west of X.
+2 L is placed on the top of C.
+3 What is the relation of the agent L to the agent C?	above	1
+1 V is diagonally below S to the right at a 45 degree angle.
+2 W is above S and to the left of S.
+3 What is the relation of the agent S to the agent W?	lower-right	1
+1 C and N are vertical and C is above N.
+2 J is sitting in the left direction of N.
+3 What is the relation of the agent J to the agent N?	left	1
+1 H is to the right and above T at an angle of about 45 degrees.
+2 O is at a 45 degree angle to H, in the upper righthand corner.
+3 What is the relation of the agent O to the agent H?	upper-right	1
+1 Object M is below object G and to the right of it, too.
+2 M is on the right side to I.
+3 What is the relation of the agent G to the agent I?	above	1
+1 V is above H at 2 o'clock.
+2 V is diagonally right and below W.
+3 What is the relation of the agent V to the agent H?	upper-right	1
+1 Z is over there with Y below.
+2 The object Z is upper and slightly to the left of the object P.
+3 What is the relation of the agent Y to the agent Z?	below	1
+1 I is below and to the left of B.
+2 E is at the bottom of B vertically.
+3 What is the relation of the agent B to the agent I?	upper-right	1
+1 U and B are vertical and U is above B.
+2 O is diagonally below B to the right at a 45 degree angle.
+3 What is the relation of the agent U to the agent B?	above	1
+1 N is positioned left to Z.
+2 S is placed in the right direction of N.
+3 What is the relation of the agent S to the agent Z?	overlap	1
+1 H is over there and K is at the bottom of it.
+2 V is placed at the lower left of K.
+3 What is the relation of the agent K to the agent V?	upper-right	1
+1 Y is to the bottom-left of R.
+2 Z is to the left of R and is on the same horizontal plane.
+3 What is the relation of the agent Y to the agent Z?	below	1
+1 The object V is positioned directly below the object T.
+2 B is under V.
+3 What is the relation of the agent T to the agent B?	above	1
+1 W is at O's 12 o'clock.
+2 W is to the bottom left of V.
+3 What is the relation of the agent O to the agent V?	lower-left	1
+1 Q is below T.
+2 T and M are horizontal and T is to the left of M.
+3 What is the relation of the agent M to the agent Q?	upper-right	1
+1 V is at E's 6 o'clock.
+2 K is positioned above V.
+3 What is the relation of the agent E to the agent K?	overlap	1
+1 The object A is upper and slightly to the left of the object E.
+2 The object G is upper and slightly to the right of the object A.
+3 What is the relation of the agent E to the agent G?	below	1
+1 C is on the same horizontal plane directly left to F.
+2 Q and F are both there with the object Q is to the right of object F.
+3 What is the relation of the agent Q to the agent C?	overlap	1
+1 N is positioned in the front right corner of K.
+2 K is over there and H is directly below it.
+3 What is the relation of the agent H to the agent K?	below	1
+1 E and P are next to each other with P at the bottom E on the top.
+2 X is sitting in the right direction of P.
+3 What is the relation of the agent P to the agent X?	left	1
+1 P is over there with F above.
+2 F is over there and U is directly below it.
+3 What is the relation of the agent F to the agent P?	above	1
+1 The object labeled A is positioned to the right of the object labeled J.
+2 I is on the left side to J.
+3 What is the relation of the agent I to the agent A?	left	1
+1 The object R is upper and slightly to the left of the object H.
+2 J is positioned above H and to the right.
+3 What is the relation of the agent H to the agent R?	lower-right	1
+1 Q is on the right side and top of K.
+2 C is on the left side and above K.
+3 What is the relation of the agent Q to the agent K?	upper-right	1
+1 Q is diagonally above A to the right at a 45 degree.
+2 K is diagonally to the upper left of Q.
+3 What is the relation of the agent K to the agent A?	above	1
+1 O is placed at the upper left of Z.
+2 C is at the bottom of O and is on the same vertical plane.
+3 What is the relation of the agent O to the agent Z?	upper-left	1
+1 C is below and to the right of Q.
+2 C is above and to the left of H.
+3 What is the relation of the agent C to the agent H?	upper-left	1
+1 If F is the center of a clock face, L is located between 10 and 11.
+2 Q is at the bottom and F is on the top.
+3 What is the relation of the agent Q to the agent F?	below	1
+1 U is at the bottom and N is on the top.
+2 W is on top of N.
+3 What is the relation of the agent U to the agent W?	below	1
+1 E is at C's 6 o'clock.
+2 K is diagonally to the bottom left of E.
+3 What is the relation of the agent K to the agent C?	lower-left	1
+1 E is positioned in the lower right corner of H.
+2 E is directly above W.
+3 What is the relation of the agent E to the agent H?	lower-right	1
+1 S is over there and E is on the right of it.
+2 S and J are in a horizontal line with J on the right.
+3 What is the relation of the agent E to the agent J?	overlap	1
+1 Q is on the same horizontal plane directly left to W.
+2 P is diagonally right and below W.
+3 What is the relation of the agent Q to the agent P?	upper-left	1
+1 L is positioned below and to the right of F.
+2 L is diagonally above V to the left at a 45 degree angle.
+3 What is the relation of the agent V to the agent L?	lower-right	1
+1 U presents over G.
+2 U is positioned in the lower left corner of M.
+3 What is the relation of the agent U to the agent G?	above	1
+1 F is below U at 4 o'clock.
+2 X is on the left side to U.
+3 What is the relation of the agent U to the agent F?	upper-left	1
+1 The object B is positioned below and to the left of the object L.
+2 Q is positioned right to B.
+3 What is the relation of the agent L to the agent B?	upper-right	1
+1 L is sitting in the right direction of R.
+2 X and R are side by side with X on the top and R at the bottom.
+3 What is the relation of the agent X to the agent R?	above	1
+1 Q is under W.
+2 Z and W are vertical and Z is above W.
+3 What is the relation of the agent Z to the agent Q?	above	1
+1 X is directly north east of M.
+2 A is over there and X is directly below it.
+3 What is the relation of the agent X to the agent M?	upper-right	1
+1 X is at a 45 degree angle to T, in the lower lefthand corner.
+2 M is positioned down and to the left of X.
+3 What is the relation of the agent X to the agent T?	lower-left	1
+1 S is on the left side and above R.
+2 R is below and to the right of I.
+3 What is the relation of the agent R to the agent S?	lower-right	1
+1 D and T are parallel, and D is over T.
+2 T is directly north west of L.
+3 What is the relation of the agent T to the agent L?	upper-left	1
+1 D is sitting at the 12:00 position to V.
+2 E is below and to the right of D.
+3 What is the relation of the agent E to the agent D?	lower-right	1
+1 M is on the right and L is on the left.
+2 I is directly north west of M.
+3 What is the relation of the agent L to the agent I?	below	1
+1 B is to the left of L.
+2 X is to the right of B horizontally.
+3 What is the relation of the agent L to the agent B?	right	1
+1 Q is positioned down and to the left of C.
+2 Z is over there and Q is on the right.
+3 What is the relation of the agent Q to the agent C?	lower-left	1
+1 O is positioned in the lower right corner of U.
+2 Y and U are in a vertical line with Y on top.
+3 What is the relation of the agent U to the agent O?	upper-left	1
+1 E is above Q at 10 o'clock.
+2 E is directly north east of R.
+3 What is the relation of the agent E to the agent R?	upper-right	1
+1 The object D and Z are there. The object Z is above and slightly to the left of the object D.
+2 Z is there and P is at the 10 position of a clock face.
+3 What is the relation of the agent Z to the agent D?	upper-left	1
+1 The object labeled M is positioned to the right of the object labeled I.
+2 F is placed at the lower right of I.
+3 What is the relation of the agent M to the agent I?	right	1
+1 T presents lower left to O.
+2 Object O is below object D and to the right of it, too.
+3 What is the relation of the agent T to the agent O?	lower-left	1
+1 T is on the right side and top of N.
+2 F is on the same vertical plane directly below N.
+3 What is the relation of the agent N to the agent T?	lower-left	1
+1 A is on the same horizontal plane directly right to N.
+2 A is to the right of I horizontally.
+3 What is the relation of the agent N to the agent I?	overlap	1
+1 L is over there and U is directly below it.
+2 The object Q is upper and slightly to the right of the object L.
+3 What is the relation of the agent U to the agent L?	below	1
+1 V is at the lower side of L.
+2 The object D and L are there. The object D is below and slightly to the right of the object L.
+3 What is the relation of the agent V to the agent D?	left	1
+1 The objects F and E are over there. The object F is lower and slightly to the left of the object E.
+2 I and E are both there with the object I is to the left of object E.
+3 What is the relation of the agent F to the agent I?	below	1
+1 W is directly below M.
+2 X and M are next to each other with M on the right and X on the left.
+3 What is the relation of the agent W to the agent X?	lower-right	1
+1 Y presents over A.
+2 T is on the same horizontal plane directly right to Y.
+3 What is the relation of the agent Y to the agent A?	above	1
+1 V and C are horizontal and V is to the left of C.
+2 D is sitting in the left direction of V.
+3 What is the relation of the agent V to the agent C?	left	1
+1 The object S is positioned below and to the right of the object D.
+2 Object A is above object D and to the right of it, too.
+3 What is the relation of the agent S to the agent B?	right	1
+1 N is below Y and to the right of Y.
+2 Y is above R at 2 o'clock.
+3 What is the relation of the agent N to the agent Y?	lower-right	1
+1 U is to the left of F and is on the same horizontal plane.
+2 C is on the upper right of F.
+3 What is the relation of the agent C to the agent F?	upper-right	1
+1 N presents left to G.
+2 G is to the top-right of H.
+3 What is the relation of the agent N to the agent G?	left	1
+1 A is on the top and U is at the bottom.
+2 K and U are vertical and K is below U.
+3 What is the relation of the agent K to the agent A?	below	1
+1 V is on the upper right of S.
+2 D is to the right and above V at an angle of about 45 degrees.
+3 What is the relation of the agent S to the agent V?	lower-left	1
+1 M is positioned below Z and to the right.
+2 Z is diagonally to the upper right of W.
+3 What is the relation of the agent Z to the agent W?	lower-left	1
+1 Y is positioned left to W.
+2 W and B are next to each other with B on the right and W on the left.
+3 What is the relation of the agent Y to the agent B?	left	1
+1 Z is upper right to J.
+2 X is directly north west of J.
+3 What is the relation of the agent Z to the agent J?	upper-right	1
+1 Object G is above object C and to the left of it, too.
+2 C and K are horizontal and C is to the left of K.
+3 What is the relation of the agent K to the agent G?	lower-right	1
+1 T and J are side by side with T to the left and J to the right.
+2 O is diagonally to the bottom right of T.
+3 What is the relation of the agent T to the agent J?	left	1
+1 Y is below P at 7 o'clock.
+2 Y is at B's 3 o'clock.
+3 What is the relation of the agent P to the agent B?	upper-right	1
+1 Y and K are horizontal and Y is to the left of K.
+2 K is diagonally to the upper right of B.
+3 What is the relation of the agent B to the agent Y?	upper-right	1
+1 M and L are side by side with L at the bottom and M on the top.
+2 M is positioned below Q and to the left.
+3 What is the relation of the agent Q to the agent L?	left	1
+1 H is there and P is at the 5 position of a clock face.
+2 Y is placed at the lower left of P.
+3 What is the relation of the agent Y to the agent H?	below	1
+1 The object J is lower and slightly to the left of the object Q.
+2 Q is positioned above E and to the right.
+3 What is the relation of the agent Q to the agent E?	upper-right	1
+1 Object F is below object X and to the left of it, too.
+2 The object J is positioned directly below the object F.
+3 What is the relation of the agent F to the agent J?	above	1
+1 N presents right to Q.
+2 I is sitting in the right direction of N.
+3 What is the relation of the agent Q to the agent N?	left	1
+1 Z is positioned in the lower left corner of Y.
+2 Z is diagonally left and above Z.
+3 What is the relation of the agent Y to the agent S?	above	1
+1 N is to the right and above C at an angle of about 45 degrees.
+2 N presents left to X.
+3 What is the relation of the agent X to the agent N?	right	1
+1 N and Z are both there with the object N is to the left of object Z.
+2 Z is below K and to the right of K.
+3 What is the relation of the agent N to the agent Z?	left	1
+1 The objects V and R are over there. The object V is above and slightly to the right of the object R.
+2 N is above R at 10 o'clock.
+3 What is the relation of the agent V to the agent N?	right	1
+1 Q is to the bottom left of E.
+2 M is at the lower side of Q.
+3 What is the relation of the agent M to the agent Q?	below	1
+1 Z is at the lower side of P.
+2 P is above and to the right of W.
+3 What is the relation of the agent P to the agent W?	upper-right	1
+1 G is directly south east of P.
+2 I is diagonally below G to the right at a 45 degree angle.
+3 What is the relation of the agent G to the agent I?	upper-left	1
+1 J is on the same horizontal plane directly left to X.
+2 J is sitting at the 3:00 position to F.
+3 What is the relation of the agent X to the agent J?	right	1
+1 B is positioned above S.
+2 A is on the same horizontal plane directly right to S.
+3 What is the relation of the agent B to the agent A?	upper-left	1
+1 N is positioned below M.
+2 X is over there and M is directly below it.
+3 What is the relation of the agent M to the agent N?	above	1
+1 X is positioned in the lower left corner of I.
+2 J and X are vertical and J is above X.
+3 What is the relation of the agent X to the agent I?	lower-left	1
+1 V is below M at 4 o'clock.
+2 V is placed in the left direction of K.
+3 What is the relation of the agent K to the agent M?	lower-right	1
+1 Q presents below Y.
+2 Y is to the top-left of E.
+3 What is the relation of the agent Q to the agent Y?	above	1
+1 N is slightly off center to the top left and I is slightly off center to the bottom right.
+2 The object P is positioned above and to the left of object N.
+3 What is the relation of the agent P to the agent I?	upper-left	1
+1 W is directly north east of R.
+2 R presents left to H.
+3 What is the relation of the agent H to the agent R?	right	1
+1 G is over there and Q is directly above it.
+2 Q is on the upper right of Y.
+3 What is the relation of the agent Q to the agent G?	above	1
+1 K is placed on the top of I.
+2 G presents right to K.
+3 What is the relation of the agent K to the agent I?	above	1
+1 U is there and F is at the 2 position of a clock face U.
+2 The object F is positioned above and to the left of object P.
+3 What is the relation of the agent U to the agent P?	left	1
+1 G is over there and E is on the left of it.
+2 E is over there with V below.
+3 What is the relation of the agent G to the agent E?	right	1
+1 T is over there and O is on the left of it.
+2 Y and T are next to each other with Y on the top and T at the bottom.
+3 What is the relation of the agent O to the agent Y?	lower-left	1
+1 X is on top of F.
+2 Y is over there and F is on the right.
+3 What is the relation of the agent X to the agent Y?	upper-right	1
+1 H is positioned left to P.
+2 P is sitting at the lower right position to D.
+3 What is the relation of the agent H to the agent P?	left	1
+1 R is to the right of D.
+2 R is there and Y is at the 2 position of a clock face R.
+3 What is the relation of the agent Y to the agent R?	upper-right	1
+1 N and D are parallel, and N is over D.
+2 D and V are both there with the object D is to the right of object V.
+3 What is the relation of the agent V to the agent N?	lower-right	1
+1 P is positioned below and to the right of K.
+2 The object M is upper and slightly to the left of the object P.
+3 What is the relation of the agent M to the agent K?	overlap	1
+1 H is positioned in the front right corner of D.
+2 R is on the lower right of D.
+3 What is the relation of the agent D to the agent R?	upper-left	1
+1 P and R are parallel, and P on the right of R.
+2 The object R and A are there. The object R is below and slightly to the right of the object A.
+3 What is the relation of the agent A to the agent R?	upper-left	1
+1 K is above I at 10 o'clock.
+2 The objects N and K are over there. The object N is above and slightly to the right of the object K.
+3 What is the relation of the agent K to the agent I?	upper-left	1
+1 The object X is upper and slightly to the right of the object D.
+2 C is to the upper left of D.
+3 What is the relation of the agent D to the agent X?	lower-left	1
+1 B is to the left of U and below U at approximately a 45 degree angle.
+2 Z is diagonally below B to the right at a 45 degree angle.
+3 What is the relation of the agent Z to the agent B?	lower-right	1
+1 J is sitting at the lower left position to X.
+2 N is placed on the top of X.
+3 What is the relation of the agent N to the agent X?	above	1
+1 U and Q are in a vertical line with Q below U.
+2 Q is slightly off center to the top left and X is slightly off center to the bottom right.
+3 What is the relation of the agent X to the agent U?	lower-right	1
+1 R is to the left of F and below F at approximately a 45 degree angle.
+2 O is diagonally right and below R.
+3 What is the relation of the agent R to the agent O?	upper-left	1
+1 X is to the top-left of P.
+2 X and R are both there with the object X above the object R.
+3 What is the relation of the agent X to the agent P?	upper-left	1
+1 V is at the 9 o'clock position relative to E.
+2 Y is on the same horizontal plane directly right to E.
+3 What is the relation of the agent E to the agent Y?	left	1
+1 D is slightly off center to the top left and Q is slightly off center to the bottom right.
+2 D is sitting at the top position to I.
+3 What is the relation of the agent D to the agent Q?	upper-left	1
+1 A is on the same vertical plane directly below O.
+2 A is on the same horizontal plane directly right to R.
+3 What is the relation of the agent A to the agent O?	below	1
+1 L is at the bottom and O is on the top.
+2 W is on the lower left of L.
+3 What is the relation of the agent L to the agent W?	upper-right	1
+1 E is positioned above S and to the right.
+2 I is directly below E.
+3 What is the relation of the agent S to the agent E?	lower-left	1
+1 V is positioned above J and to the right.
+2 J is at a 45 degree angle to T, in the lower lefthand corner.
+3 What is the relation of the agent T to the agent J?	upper-right	1
+1 O and H are parallel, and O is over H.
+2 The objects H and Z are over there. The object H is lower and slightly to the left of the object Z.
+3 What is the relation of the agent O to the agent H?	above	1
+1 P is on the upper right of X.
+2 X is below W.
+3 What is the relation of the agent W to the agent X?	above	1
+1 J and A are side by side with J on the top and A at the bottom.
+2 T is on the top side to J.
+3 What is the relation of the agent A to the agent J?	below	1
+1 R is to the bottom-left of Z.
+2 Z and E are in a vertical line with E below Z.
+3 What is the relation of the agent E to the agent R?	right	1
+1 If H is the center of a clock face, N is located between 2 and 3.
+2 U is above and to the right of H.
+3 What is the relation of the agent N to the agent U?	overlap	1
+1 R is to the right of H and is on the same horizontal plane.
+2 H is above U.
+3 What is the relation of the agent U to the agent R?	lower-left	1
+1 A presents upper left to E.
+2 Y is above and to the right of E.
+3 What is the relation of the agent A to the agent Y?	left	1
+1 Y is north east of N.
+2 F is on the right side and top of N.
+3 What is the relation of the agent N to the agent F?	lower-left	1
+1 Q is directly above B.
+2 Q is sitting at the top position to Y.
+3 What is the relation of the agent Y to the agent Q?	below	1
+1 I is to the right and above G at an angle of about 45 degrees.
+2 G is to the upper left of W.
+3 What is the relation of the agent G to the agent W?	upper-left	1
+1 F is diagonally to the upper right of K.
+2 X is positioned above and to the left of F.
+3 What is the relation of the agent X to the agent F?	upper-left	1
+1 L is sitting at the upper right position to I.
+2 N and L are in a vertical line with L below N.
+3 What is the relation of the agent N to the agent I?	upper-right	1
+1 Z and R are both there with the object Z is to the left of object R.
+2 N is diagonally below Z to the left at a 45 degree angle.
+3 What is the relation of the agent R to the agent N?	upper-right	1
+1 K is above G at 10 o'clock.
+2 G and H are in a vertical line with G on top.
+3 What is the relation of the agent G to the agent K?	lower-right	1
+1 U is at a 45 degree angle to I, in the lower lefthand corner.
+2 K is positioned below and to the right of U.
+3 What is the relation of the agent K to the agent I?	below	1
+1 U and D are in a vertical line with D below U.
+2 U is at the 6 o'clock position relative to L.
+3 What is the relation of the agent L to the agent U?	above	1
+1 Object A is above object M and to the right of it, too.
+2 E is there and U is at the 10 position of a clock face.
+3 What is the relation of the agent U to the agent M?	left	1
+1 C is south east of M.
+2 M is positioned right to S.
+3 What is the relation of the agent S to the agent C?	upper-left	1
+1 H and X are in a vertical line with X below H.
+2 C is at a 45 degree angle to X, in the upper lefthand corner.
+3 What is the relation of the agent X to the agent C?	lower-right	1
+1 E is under B.
+2 N and E are parallel, and N is on top of E.
+3 What is the relation of the agent N to the agent E?	above	1
+1 B is to the bottom right of V.
+2 C is on the left and B is on the right.
+3 What is the relation of the agent V to the agent C?	above	1
+1 L is at Y’s 9 o'clock.
+2 L is at the 6 o'clock position relative to E.
+3 What is the relation of the agent L to the agent E?	below	1
+1 G is on the right side to Z.
+2 F is sitting in the left direction of Z.
+3 What is the relation of the agent F to the agent Z?	left	1
+1 M is above H with a small gap between them.
+2 M is over there with I below.
+3 What is the relation of the agent H to the agent I?	overlap	1
+1 W is positioned in the lower right corner of K.
+2 K is positioned in the top left corner of O.
+3 What is the relation of the agent O to the agent K?	lower-right	1
+1 Object B is above object Z and to the left of it, too.
+2 B is to the right of F.
+3 What is the relation of the agent F to the agent B?	left	1
+1 L is diagonally right and below K.
+2 L is south east of H.
+3 What is the relation of the agent H to the agent K?	overlap	1
+1 D is to the right of V and is on the same horizontal plane.
+2 D is to the upper left of Q.
+3 What is the relation of the agent Q to the agent V?	lower-right	1
+1 Object N is below object K and to the left of it, too.
+2 B and K are next to each other with K on the right and B on the left.
+3 What is the relation of the agent K to the agent B?	right	1
+1 G is south west of H.
+2 The object G is upper and slightly to the left of the object E.
+3 What is the relation of the agent E to the agent H?	below	1
+1 O is north west of N.
+2 J is sitting at the lower left position to O.
+3 What is the relation of the agent J to the agent O?	lower-left	1
+1 T is to the left of S and is on the same horizontal plane.
+2 S is over there and B is on the left of it.
+3 What is the relation of the agent T to the agent B?	overlap	1
+1 R is over there and T is on the right.
+2 R is over there with L above.
+3 What is the relation of the agent T to the agent L?	lower-right	1
+1 D is there and G is at the 2 position of a clock face D.
+2 G and O are next to each other with O at the bottom G on the top.
+3 What is the relation of the agent G to the agent D?	upper-right	1
+1 S is sitting at the lower left position to F.
+2 F is at L’s 9 o'clock.
+3 What is the relation of the agent S to the agent F?	lower-left	1
+1 The object labeled B is positioned to the left of the object labeled Z.
+2 Z presents below U.
+3 What is the relation of the agent B to the agent Z?	left	1
+1 E and F are both there with the object E is to the left of object F.
+2 E is diagonally to the bottom right of I.
+3 What is the relation of the agent I to the agent E?	upper-left	1
+1 G is directly above H.
+2 R and H are parallel, and R is over H.
+3 What is the relation of the agent H to the agent R?	below	1
+1 L is to the left of M with a small gap between them.
+2 J and L are next to each other with J on the top and L at the bottom.
+3 What is the relation of the agent M to the agent L?	right	1
+1 O is to the upper left of R.
+2 R and K are side by side with R to the right and K to the left.
+3 What is the relation of the agent K to the agent O?	below	1
+1 R is there and A is at the 10 position of a clock face.
+2 L presents upper left to A.
+3 What is the relation of the agent A to the agent L?	lower-right	1
+1 T is diagonally right and below L.
+2 J is over there and T is directly below it.
+3 What is the relation of the agent L to the agent T?	upper-left	1
+1 C and U are both there with the object C is to the right of object U.
+2 U is directly north west of F.
+3 What is the relation of the agent F to the agent U?	lower-right	1
+1 F is at the lower side of B.
+2 U is above and to the right of B.
+3 What is the relation of the agent B to the agent U?	lower-left	1
+1 W is positioned below F and to the right.
+2 F is at a 45 degree angle to C, in the upper righthand corner.
+3 What is the relation of the agent W to the agent F?	lower-right	1
+1 G is positioned in the lower left corner of M.
+2 Q and G are parallel, and Q on the right of G.
+3 What is the relation of the agent M to the agent G?	upper-right	1
+1 If T is the center of a clock face, Y is located between 2 and 3.
+2 Y is positioned right to H.
+3 What is the relation of the agent H to the agent T?	above	1
+1 V is sitting at the 3:00 position to A.
+2 V is diagonally right and below B.
+3 What is the relation of the agent V to the agent A?	right	1
+1 F is directly north west of N.
+2 C is at the 9 o'clock position relative to N.
+3 What is the relation of the agent F to the agent C?	above	1
+1 If O is the center of a clock face, K is located between 2 and 3.
+2 B is diagonally to the bottom right of O.
+3 What is the relation of the agent K to the agent B?	above	1
+1 B and X are in a vertical line with X below B.
+2 L is to the right of X with a small gap between them.
+3 What is the relation of the agent L to the agent X?	right	1
+1 X is on the left side of and below V.
+2 V is positioned in the lower left corner of P.
+3 What is the relation of the agent X to the agent V?	lower-left	1
+1 I presents right to L.
+2 I and U are next to each other with I on the top and U at the bottom.
+3 What is the relation of the agent L to the agent U?	upper-left	1
+1 X is above H and to the left of H.
+2 H is at a 45 degree angle to C, in the upper lefthand corner.
+3 What is the relation of the agent X to the agent C?	upper-left	1
+1 Q is there and H is at the 5 position of a clock face.
+2 Q is on the top side to N.
+3 What is the relation of the agent H to the agent N?	right	1
+1 G and C are parallel, and G is to the right of C.
+2 G and Q are parallel, and Q is below G.
+3 What is the relation of the agent G to the agent Q?	above	1
+1 If O is the center of a clock face, W is located between 7 and 8.
+2 W presents over P.
+3 What is the relation of the agent W to the agent O?	lower-left	1
+1 If U is the center of a clock face, P is located between 10 and 11.
+2 The object labeled L is positioned to the left of the object labeled P.
+3 What is the relation of the agent U to the agent P?	lower-right	1
+1 X is to the right and above N at an angle of about 45 degrees.
+2 N is over there with H below.
+3 What is the relation of the agent H to the agent X?	left	1
+1 X is to the top right of S.
+2 Object A is above object X and to the right of it, too.
+3 What is the relation of the agent D to the agent X?	lower-left	1
+1 B and G are in a horizontal line with G on the right.
+2 The object B is positioned directly above the object J.
+3 What is the relation of the agent B to the agent J?	above	1
+1 O is sitting at the 6:00 position to M.
+2 M is at B's 3 o'clock.
+3 What is the relation of the agent M to the agent O?	above	1
+1 U is above and to the right of N.
+2 N and H are next to each other with H on the right and N on the left.
+3 What is the relation of the agent N to the agent H?	left	1
+1 Q is to the top right of G.
+2 D is positioned down and to the left of Q.
+3 What is the relation of the agent D to the agent Q?	lower-left	1
+1 The object A is positioned directly above the object S.
+2 S is to the upper left of R.
+3 What is the relation of the agent R to the agent S?	lower-right	1
+1 K presents upper right to B.
+2 S is on the same horizontal plane directly left to B.
+3 What is the relation of the agent B to the agent S?	right	1
+1 J is upper left of S.
+2 S is to the top-right of Y.
+3 What is the relation of the agent Y to the agent S?	lower-left	1
+1 E is positioned in the top left corner of S.
+2 S is above U and to the left of U.
+3 What is the relation of the agent E to the agent U?	upper-left	1
+1 The object U and W are there. The object W is above and slightly to the left of the object U.
+2 D is diagonally above W to the right at a 45 degree.
+3 What is the relation of the agent D to the agent U?	above	1
+1 F is to the right and above Y at an angle of about 45 degrees.
+2 F is south east of I.
+3 What is the relation of the agent Y to the agent F?	upper-left	1
+1 T is sitting at the upper right position to L.
+2 L is sitting at the upper right position to U.
+3 What is the relation of the agent T to the agent U?	upper-right	1
+1 H is below and to the left of X.
+2 H is over there and W is at the bottom of it.
+3 What is the relation of the agent X to the agent W?	upper-right	1
+1 B is slightly off center to the top left and F is slightly off center to the bottom right.
+2 B is diagonally below X to the left at a 45 degree angle.
+3 What is the relation of the agent F to the agent X?	below	1
+1 C is positioned in the lower left corner of K.
+2 D is at a 45 degree angle to K, in the lower lefthand corner.
+3 What is the relation of the agent C to the agent K?	lower-left	1
+1 T is upper right to X.
+2 V is positioned in the lower right corner of T.
+3 What is the relation of the agent T to the agent V?	upper-left	1
+1 V is at the 12 o'clock position relative to R.
+2 I and R are horizontal and I is to the left of R.
+3 What is the relation of the agent V to the agent R?	above	1
+1 J is diagonally to the bottom right of I.
+2 I is sitting at the 12:00 position to T.
+3 What is the relation of the agent I to the agent T?	above	1
+1 Z is positioned above W.
+2 Z and F are in a horizontal line with Z on the left.
+3 What is the relation of the agent F to the agent W?	upper-right	1
+1 Q is below and to the right of Y.
+2 The object X is upper and slightly to the left of the object Q.
+3 What is the relation of the agent Q to the agent X?	lower-right	1
+1 The object Z and B are there. The object Z is below and slightly to the right of the object B.
+2 R is to the left of Z and below Z at approximately a 45 degree angle.
+3 What is the relation of the agent R to the agent Z?	lower-left	1
+1 The object O is lower and slightly to the left of the object C.
+2 O is over there and B is on the top of it.
+3 What is the relation of the agent C to the agent O?	upper-right	1
+1 R is on the top side to D.
+2 X is lower right of D.
+3 What is the relation of the agent D to the agent R?	below	1
+1 T presents below S.
+2 H is positioned in the lower right corner of S.
+3 What is the relation of the agent S to the agent T?	below	1
+1 Y and U are parallel, and U is below Y.
+2 U is there and P is at the 5 position of a clock face.
+3 What is the relation of the agent P to the agent Y?	lower-right	1
+1 F is at W's 3 o'clock.
+2 The object F is positioned directly above the object B.
+3 What is the relation of the agent F to the agent W?	right	1
+1 F is on the same horizontal plane directly right to B.
+2 B is to the top right of K.
+3 What is the relation of the agent B to the agent K?	upper-right	1
+1 N is over Z.
+2 The object labeled Z is positioned to the right of the object labeled Q.
+3 What is the relation of the agent N to the agent Q?	upper-right	1
+1 F is to the right of B with a small gap between them.
+2 G is on the right side and below F.
+3 What is the relation of the agent F to the agent G?	upper-left	1
+1 J is placed in the right direction of E.
+2 E is to the top of G vertically.
+3 What is the relation of the agent G to the agent E?	below	1
+1 P is on the right side to G.
+2 A and P are parallel, and A is under P.
+3 What is the relation of the agent A to the agent G?	lower-right	1
+1 T is over there and A is on the left.
+2 X is at the 6 o'clock position relative to A.
+3 What is the relation of the agent T to the agent A?	right	1
+1 The object F is lower and slightly to the right of the object V.
+2 V is over there and X is on the right.
+3 What is the relation of the agent V to the agent X?	left	1
+1 Z is positioned left to J.
+2 Y is south west of J.
+3 What is the relation of the agent Y to the agent Z?	below	1
+1 M is lower right of O.
+2 Z and M are horizontal and Z is to the right of M.
+3 What is the relation of the agent M to the agent O?	lower-right	1
+1 K and B are in a horizontal line with B on the right.
+2 Z is over there with K below.
+3 What is the relation of the agent K to the agent B?	left	1
+1 Y is on the left side of and below Q.
+2 Object A is above object G and to the right of it, too.
+3 What is the relation of the agent Y to the agent Q?	lower-left	1
+1 P is at D's 3 o'clock.
+2 Z presents upper left to P.
+3 What is the relation of the agent D to the agent Z?	below	1
+1 If V is the center of a clock face, M is located between 10 and 11.
+2 M is on the upper right of R.
+3 What is the relation of the agent V to the agent M?	lower-right	1
+1 The object H is upper and slightly to the left of the object F.
+2 L is at F's 6 o'clock.
+3 What is the relation of the agent L to the agent H?	lower-right	1
+1 N is sitting at the 3:00 position to Z.
+2 K is at the lower side of N.
+3 What is the relation of the agent N to the agent Z?	right	1
+1 R is on top of S.
+2 The object W is upper and slightly to the right of the object S.
+3 What is the relation of the agent R to the agent S?	above	1
+1 P is on the left side and above Y.
+2 Y is below K at 7 o'clock.
+3 What is the relation of the agent P to the agent K?	left	1
+1 V and J are next to each other with V on the left and J on the right.
+2 J is diagonally below I to the right at a 45 degree angle.
+3 What is the relation of the agent I to the agent J?	upper-left	1
+1 J is sitting at the top position to S.
+2 S presents over F.
+3 What is the relation of the agent J to the agent F?	above	1
+1 Z is at a 45 degree angle to J, in the upper righthand corner.
+2 T is under Z.
+3 What is the relation of the agent J to the agent Z?	lower-left	1
+1 The object Y is upper and slightly to the left of the object E.
+2 C is over there and Y is on the right.
+3 What is the relation of the agent C to the agent E?	upper-left	1
+1 M is on the right side and below H.
+2 M presents lower right to A.
+3 What is the relation of the agent A to the agent M?	upper-left	1
+1 The objects W and K are over there. The object W is above and slightly to the right of the object K.
+2 The object K is positioned directly above the object D.
+3 What is the relation of the agent K to the agent D?	above	1
+1 Object A is below object D and to the right of it, too.
+2 D is above C at 2 o'clock.
+3 What is the relation of the agent C to the agent A?	left	1
+1 H is there and K is at the 10 position of a clock face.
+2 K is directly below Z.
+3 What is the relation of the agent Z to the agent K?	above	1
+1 D and P are parallel, and D is under P.
+2 P and O are parallel, and P on the right of O.
+3 What is the relation of the agent O to the agent P?	right	1
+1 S is at N’s 9 o'clock.
+2 S and B are side by side with S on the top and B at the bottom.
+3 What is the relation of the agent S to the agent N?	left	1
+1 P is to the bottom left of A.
+2 R and P are both there with the object R above the object P.
+3 What is the relation of the agent P to the agent R?	below	1
+1 T is positioned below R.
+2 L is at R’s 9 o'clock.
+3 What is the relation of the agent T to the agent R?	below	1
+1 Z is to the bottom-left of V.
+2 V is placed at the upper left of N.
+3 What is the relation of the agent Z to the agent V?	lower-left	1
+1 Z is placed in the right direction of Y.
+2 Z and B are in a vertical line with Z on top.
+3 What is the relation of the agent Y to the agent B?	upper-left	1
+1 V is over there and E is on the top of it.
+2 V is at the bottom of B and is on the same vertical plane.
+3 What is the relation of the agent B to the agent E?	below	1
+1 G and J are side by side with G on the top and J at the bottom.
+2 K is below and to the right of J.
+3 What is the relation of the agent G to the agent J?	above	1
+1 A is at a 45 degree angle to D, in the upper lefthand corner.
+2 B is sitting at the 3:00 position to A.
+3 What is the relation of the agent A to the agent D?	upper-left	1
+1 H and Q are parallel, and H is on top of Q.
+2 M and Q are both there with the object Q below the object M.
+3 What is the relation of the agent H to the agent M?	overlap	1
+1 R is below L with a small gap between them.
+2 X is on the lower right of L.
+3 What is the relation of the agent R to the agent X?	left	1
+1 F is diagonally above M to the left at a 45 degree angle.
+2 Object M is above object K and to the left of it, too.
+3 What is the relation of the agent K to the agent F?	lower-right	1
+1 Y is positioned below E and to the right.
+2 E is lower right of V.
+3 What is the relation of the agent V to the agent Y?	upper-left	1
+1 H is below B and to the right of B.
+2 U is at H's 12 o'clock.
+3 What is the relation of the agent B to the agent H?	upper-left	1
+1 B is at K’s 9 o'clock.
+2 B and W are parallel, and B is under W.
+3 What is the relation of the agent W to the agent B?	above	1
+1 F is over there and V is on the left.
+2 V is slightly off center to the top left and U is slightly off center to the bottom right.
+3 What is the relation of the agent U to the agent F?	below	1
+1 G is sitting in the left direction of L.
+2 V is at the bottom of L vertically.
+3 What is the relation of the agent V to the agent L?	below	1
+1 Z is over there with S below.
+2 The object O is lower and slightly to the right of the object S.
+3 What is the relation of the agent S to the agent Z?	below	1
+1 S is slightly off center to the top left and Z is slightly off center to the bottom right.
+2 Z is placed in the left direction of I.
+3 What is the relation of the agent S to the agent Z?	upper-left	1
+1 X is sitting at the 6:00 position to P.
+2 P is upper right to Y.
+3 What is the relation of the agent X to the agent Y?	right	1
+1 O is sitting in the right direction of A.
+2 A is over there and I is on the right.
+3 What is the relation of the agent A to the agent I?	left	1
+1 E is upper left of I.
+2 E is sitting at the lower position to Y.
+3 What is the relation of the agent I to the agent E?	lower-right	1
+1 I and K are both there with the object I is to the right of object K.
+2 T and K are in a vertical line with T on top.
+3 What is the relation of the agent K to the agent I?	right	1
+1 N is diagonally right and below J.
+2 M is to the upper left of J.
+3 What is the relation of the agent N to the agent J?	lower-right	1
+1 R is to the left of W with a small gap between them.
+2 Q is to the left of W horizontally.
+3 What is the relation of the agent Q to the agent R?	overlap	1
+1 S is below and to the right of Y.
+2 S is placed at the lower left of G.
+3 What is the relation of the agent G to the agent Y?	right	1
+1 L and W are in a vertical line with W below L.
+2 D is diagonally above W to the left at a 45 degree angle.
+3 What is the relation of the agent L to the agent D?	right	1
+1 B and V are in a vertical line with B on top.
+2 V and Y are next to each other with Y on the right and V on the left.
+3 What is the relation of the agent Y to the agent V?	right	1
+1 D is sitting at the 6:00 position to P.
+2 D and B are parallel, and D is over B.
+3 What is the relation of the agent B to the agent P?	below	1
+1 M is to the left of S and is on the same horizontal plane.
+2 S is at the 12 o'clock position relative to E.
+3 What is the relation of the agent E to the agent S?	below	1
+1 D is on the top side to X.
+2 G presents lower right to D.
+3 What is the relation of the agent D to the agent G?	upper-left	1
+1 O is on the top side to X.
+2 O is directly north west of B.
+3 What is the relation of the agent B to the agent X?	right	1
+1 M and Y are both there with the object M is to the left of object Y.
+2 Y is slightly off center to the top left and O is slightly off center to the bottom right.
+3 What is the relation of the agent O to the agent Y?	lower-right	1
+1 H is placed at the upper left of G.
+2 Object A is above object T and to the right of it, too.
+3 What is the relation of the agent H to the agent T?	left	1
+1 W is slightly off center to the top left and N is slightly off center to the bottom right.
+2 W is north east of M.
+3 What is the relation of the agent N to the agent M?	right	1
+1 O is diagonally above F to the left at a 45 degree angle.
+2 F is on the same horizontal plane directly left to Z.
+3 What is the relation of the agent O to the agent F?	upper-left	1
+1 Y is positioned up and to the right of Q.
+2 J and Q are parallel, and J is under Q.
+3 What is the relation of the agent J to the agent Y?	lower-left	1
+1 G and L are parallel, and G is to the right of L.
+2 L is over there and O is at the bottom of it.
+3 What is the relation of the agent L to the agent G?	right	1
+1 P presents right to R.
+2 The object R and G are there. The object G is above and slightly to the left of the object R.
+3 What is the relation of the agent P to the agent R?	right	1
+1 O is lower right of B.
+2 O is positioned down and to the left of C.
+3 What is the relation of the agent B to the agent C?	left	1
+1 G is sitting at the upper right position to R.
+2 V is south east of R.
+3 What is the relation of the agent G to the agent R?	upper-right	1
+1 D is on the lower right of Z.
+2 T is placed in the right direction of D.
+3 What is the relation of the agent Z to the agent T?	upper-left	1
+1 X and A are both there with the object X above the object A.
+2 I is slightly off center to the top left and A is slightly off center to the bottom right.
+3 What is the relation of the agent A to the agent I?	lower-right	1
+1 V is above B at 2 o'clock.
+2 B is directly below K.
+3 What is the relation of the agent V to the agent B?	upper-right	1
+1 B is to the upper left of G.
+2 L is over there and G is at the bottom of it.
+3 What is the relation of the agent B to the agent L?	left	1
+1 E is positioned above K.
+2 If P is the center of a clock face, K is located between 10 and 11.
+3 What is the relation of the agent K to the agent P?	upper-left	1
+1 P is at the 12 o'clock position relative to Q.
+2 P is on the right and Y is on the left.
+3 What is the relation of the agent P to the agent Y?	right	1
+1 B is on the right side and top of O.
+2 F is on the top and B is at the bottom.
+3 What is the relation of the agent O to the agent B?	lower-left	1
+1 If C is the center of a clock face, Y is located between 7 and 8.
+2 P is sitting at the 6:00 position to Y.
+3 What is the relation of the agent C to the agent P?	upper-right	1
+1 V is positioned in the top left corner of F.
+2 J is south west of F.
+3 What is the relation of the agent F to the agent V?	lower-right	1
+1 S is to the upper left of H.
+2 H is diagonally above Y to the right at a 45 degree.
+3 What is the relation of the agent S to the agent H?	upper-left	1
+1 Q is diagonally to the bottom left of W.
+2 Q is at G's 12 o'clock.
+3 What is the relation of the agent G to the agent W?	lower-left	1
+1 B is directly below X.
+2 C is below and to the right of X.
+3 What is the relation of the agent C to the agent B?	right	1
+1 L is lower left to Z.
+2 A is above L at 10 o'clock.
+3 What is the relation of the agent A to the agent Z?	left	1
+1 Q is on the same horizontal plane directly right to B.
+2 S is at the bottom of B.
+3 What is the relation of the agent S to the agent B?	below	1
+1 C is at the 9 o'clock position relative to J.
+2 C is above Q with a small gap between them.
+3 What is the relation of the agent C to the agent Q?	above	1
+1 S and V are parallel, and S on the left of V.
+2 S is north west of R.
+3 What is the relation of the agent V to the agent R?	above	1
+1 M is at the bottom and S is on the top.
+2 The object R and M are there. The object R is below and slightly to the right of the object M.
+3 What is the relation of the agent S to the agent R?	upper-left	1
+1 C is positioned in the front right corner of A.
+2 C is to the top of E vertically.
+3 What is the relation of the agent A to the agent C?	lower-left	1
+1 M is to the top-right of B.
+2 B and P are next to each other with B on the left and P on the right.
+3 What is the relation of the agent M to the agent P?	above	1
+1 U is on the left side to D.
+2 Y is over there and D is on the left of it.
+3 What is the relation of the agent U to the agent D?	left	1
+1 D is placed on the top of R.
+2 C is directly north east of D.
+3 What is the relation of the agent C to the agent D?	upper-right	1
+1 K and X are next to each other with K on the top and X at the bottom.
+2 D is over there and X is on the right of it.
+3 What is the relation of the agent D to the agent X?	left	1
+1 Q is to the right and above W at an angle of about 45 degrees.
+2 If O is the center of a clock face, W is located between 7 and 8.
+3 What is the relation of the agent W to the agent Q?	lower-right	1
+1 K presents lower left to V.
+2 N is positioned up and to the right of K.
+3 What is the relation of the agent N to the agent K?	upper-right	1
+1 J is there and K is at the 10 position of a clock face.
+2 Y is sitting at the 9:00 position of K.
+3 What is the relation of the agent J to the agent Y?	lower-right	1
+1 The object A is lower and slightly to the right of the object H.
+2 A is there and D is at the 10 position of a clock face.
+3 What is the relation of the agent A to the agent H?	lower-right	1
+1 X is below P at 7 o'clock.
+2 I is on top of X.
+3 What is the relation of the agent X to the agent I?	below	1
+1 C is over there and Z is on the left.
+2 Z is to the top right of E.
+3 What is the relation of the agent E to the agent C?	lower-left	1
+1 If D is the center of a clock face, X is located between 2 and 3.
+2 U is sitting in the right direction of D.
+3 What is the relation of the agent U to the agent D?	right	1
+1 Q and T are both there with the object T below the object Q.
+2 T is sitting at the top position to I.
+3 What is the relation of the agent Q to the agent I?	above	1
+1 V presents left to G.
+2 Y is above V at 2 o'clock.
+3 What is the relation of the agent V to the agent G?	left	1
+1 O is sitting at the lower position to X.
+2 O is above H and to the left of H.
+3 What is the relation of the agent H to the agent O?	lower-right	1
+1 G is on the upper right of M.
+2 The object Z and G are there. The object G is above and slightly to the left of the object Z.
+3 What is the relation of the agent M to the agent G?	lower-left	1
+1 K is positioned in the front right corner of P.
+2 S and P are horizontal and S is to the right of P.
+3 What is the relation of the agent P to the agent K?	lower-left	1
+1 Y is sitting at the lower left position to B.
+2 Y and K are parallel, and Y is to the right of K.
+3 What is the relation of the agent B to the agent K?	above	1
+1 W is on the lower right of S.
+2 F is diagonally below W to the right at a 45 degree angle.
+3 What is the relation of the agent W to the agent F?	upper-left	1
+1 X is to the left of G horizontally.
+2 U is diagonally below X to the right at a 45 degree angle.
+3 What is the relation of the agent U to the agent X?	lower-right	1
+1 C is positioned above and to the left of V.
+2 C is positioned left to M.
+3 What is the relation of the agent V to the agent C?	lower-right	1
+1 E is directly north east of O.
+2 E is sitting at the upper left position to C.
+3 What is the relation of the agent O to the agent E?	lower-left	1
+1 E is on the right side and below L.
+2 E is sitting in the left direction of A.
+3 What is the relation of the agent A to the agent E?	right	1
+1 Z is on the right side to E.
+2 F is lower right of Z.
+3 What is the relation of the agent F to the agent Z?	lower-right	1
+1 Z is on the same horizontal plane directly right to C.
+2 Y is sitting at the 3:00 position to Z.
+3 What is the relation of the agent C to the agent Y?	left	1
+1 V is at a 45 degree angle to B, in the lower lefthand corner.
+2 M is over there and V is on the left of it.
+3 What is the relation of the agent V to the agent M?	left	1
+1 U is positioned in the lower right corner of H.
+2 H is to the right of W.
+3 What is the relation of the agent U to the agent W?	lower-right	1
+1 Z is at the 6 o'clock position relative to O.
+2 O is diagonally left and below M.
+3 What is the relation of the agent Z to the agent M?	lower-left	1
+1 X is on the left and S is on the right.
+2 X is directly north west of O.
+3 What is the relation of the agent X to the agent O?	upper-left	1
+1 E presents lower right to J.
+2 J and A are side by side with J on the top and A at the bottom.
+3 What is the relation of the agent A to the agent E?	left	1
+1 U is to the left of B with a small gap between them.
+2 B is at the 9 o'clock position relative to J.
+3 What is the relation of the agent B to the agent U?	right	1
+1 O is placed in the right direction of P.
+2 I and O are side by side with I on the top and O at the bottom.
+3 What is the relation of the agent P to the agent O?	left	1
+1 Object V is above object E and to the left of it, too.
+2 E is to the left of M.
+3 What is the relation of the agent E to the agent M?	left	1
+1 U is sitting at the lower right position to J.
+2 U is sitting at the upper left position to D.
+3 What is the relation of the agent D to the agent J?	lower-right	1
+1 Q is on the left side of and below W.
+2 Q is diagonally to the upper right of F.
+3 What is the relation of the agent W to the agent Q?	upper-right	1
+1 K is to the right of E and is on the same horizontal plane.
+2 W is directly north east of E.
+3 What is the relation of the agent K to the agent W?	below	1
+1 The object labeled T is positioned to the right of the object labeled L.
+2 X is over there and T is directly above it.
+3 What is the relation of the agent X to the agent T?	below	1
+1 M is sitting at the 12:00 position to E.
+2 V is directly south east of E.
+3 What is the relation of the agent E to the agent M?	below	1
+1 P and G are in a horizontal line with P on the left.
+2 P is positioned above S and to the right.
+3 What is the relation of the agent P to the agent S?	upper-right	1
+1 Z is to the left of H and is on the same horizontal plane.
+2 P is at a 45 degree angle to H, in the lower righthand corner.
+3 What is the relation of the agent Z to the agent P?	upper-left	1
+1 K is to the bottom right of E.
+2 Z is on the left side to K.
+3 What is the relation of the agent K to the agent E?	lower-right	1
+1 The object P and O are there. The object O is above and slightly to the left of the object P.
+2 X is placed in the right direction of O.
+3 What is the relation of the agent P to the agent X?	below	1
+1 R is below and to the left of J.
+2 R is placed in the right direction of P.
+3 What is the relation of the agent J to the agent P?	upper-right	1
+1 I is directly north east of U.
+2 Q is at the 3 o'clock position relative to U.
+3 What is the relation of the agent U to the agent I?	lower-left	1
+1 The object H and N are there. The object H is below and slightly to the right of the object N.
+2 U is to the right of N with a small gap between them.
+3 What is the relation of the agent N to the agent U?	left	1
+1 Y is placed at the bottom of U.
+2 Z is on the right side and top of U.
+3 What is the relation of the agent Y to the agent U?	above	1
+1 H is diagonally left and below D.
+2 H is to the right of U with a small gap between them.
+3 What is the relation of the agent U to the agent D?	lower-left	1
+1 The object A is upper and slightly to the left of the object Z.
+2 Y is above Z and to the right of Z.
+3 What is the relation of the agent Z to the agent A?	lower-right	1
+1 U presents right to P.
+2 B presents upper left to U.
+3 What is the relation of the agent U to the agent P?	right	1
+1 Q and S are both there with the object Q is to the left of object S.
+2 Q is placed at the lower left of E.
+3 What is the relation of the agent E to the agent Q?	upper-right	1
+1 H presents left to Q.
+2 M is above H with a small gap between them.
+3 What is the relation of the agent M to the agent H?	above	1
+1 W is positioned above F and to the right.
+2 C is to the left of W horizontally.
+3 What is the relation of the agent W to the agent C?	right	1
+1 Q is sitting at the lower right position to C.
+2 Q presents upper right to B.
+3 What is the relation of the agent C to the agent Q?	upper-left	1
+1 Q is there and Y is at the 2 position of a clock face Q.
+2 Q is placed at the lower right of Z.
+3 What is the relation of the agent Y to the agent Z?	right	1
+1 N is placed on the top of A.
+2 N is positioned in the top left corner of Y.
+3 What is the relation of the agent N to the agent Y?	upper-left	1
+1 O is at the bottom and U is on the top.
+2 O is diagonally right and above V.
+3 What is the relation of the agent O to the agent V?	upper-right	1
+1 G and C are in a horizontal line with C on the right.
+2 N is sitting at the lower right position to C.
+3 What is the relation of the agent N to the agent C?	lower-right	1
+1 A is placed in the right direction of L.
+2 Object A is below object U and to the left of it, too.
+3 What is the relation of the agent U to the agent L?	upper-right	1
+1 P is over there and I is on the top of it.
+2 P is below and to the left of C.
+3 What is the relation of the agent C to the agent P?	upper-right	1
+1 I is lower right of W.
+2 The object labeled O is positioned to the left of the object labeled W.
+3 What is the relation of the agent I to the agent W?	lower-right	1
+1 Y is placed at the lower right of R.
+2 D is at a 45 degree angle to R, in the upper lefthand corner.
+3 What is the relation of the agent R to the agent D?	lower-right	1
+1 T is directly below P.
+2 U is positioned above P.
+3 What is the relation of the agent U to the agent P?	above	1
+1 B is over there and M is on the right.
+2 L is sitting at the 9:00 position of B.
+3 What is the relation of the agent B to the agent L?	right	1
+1 W is over there and X is on the right of it.
+2 W is on the left side of and below Q.
+3 What is the relation of the agent X to the agent W?	right	1
+1 Q is diagonally to the upper right of M.
+2 M is to the top right of D.
+3 What is the relation of the agent D to the agent Q?	overlap	1
+1 J and F are in a horizontal line with F on the right.
+2 J is to the right and above I at an angle of about 45 degrees.
+3 What is the relation of the agent I to the agent F?	lower-left	1
+1 H is sitting at the upper right position to S.
+2 H and V are both there with the object H is to the left of object V.
+3 What is the relation of the agent S to the agent H?	lower-left	1
+1 The object Q is lower and slightly to the right of the object I.
+2 I is sitting at the lower right position to A.
+3 What is the relation of the agent A to the agent Q?	upper-left	1
+1 X presents right to H.
+2 O is placed at the bottom of X.
+3 What is the relation of the agent H to the agent O?	lower-left	1
+1 J is on the lower right of B.
+2 J is to the right of F.
+3 What is the relation of the agent J to the agent F?	right	1
+1 The object V is upper and slightly to the right of the object F.
+2 F is north east of W.
+3 What is the relation of the agent F to the agent V?	lower-left	1
+1 D is positioned below M and to the left.
+2 D is on the right side to T.
+3 What is the relation of the agent T to the agent D?	left	1
+1 S and Z are parallel, and S on the left of Z.
+2 B is there and Z is at the 5 position of a clock face.
+3 What is the relation of the agent Z to the agent S?	right	1
+1 E is at M's 12 o'clock.
+2 M is lower left to U.
+3 What is the relation of the agent U to the agent E?	right	1
+1 V is on the top and D is at the bottom.
+2 D is positioned above and to the left of Q.
+3 What is the relation of the agent Q to the agent V?	lower-right	1
+1 The object P is positioned above and to the right of the object F.
+2 F is there and R is at the 2 position of a clock face F.
+3 What is the relation of the agent P to the agent F?	upper-right	1
+1 B is placed in the left direction of Z.
+2 B is directly north east of X.
+3 What is the relation of the agent B to the agent X?	upper-right	1
+1 R is diagonally to the bottom left of M.
+2 R and E are in a horizontal line with E on the right.
+3 What is the relation of the agent E to the agent R?	right	1
+1 Y and A are parallel, and Y is over A.
+2 A is on the top of H and is on the same vertical plane.
+3 What is the relation of the agent Y to the agent A?	above	1
+1 The object U is lower and slightly to the left of the object S.
+2 U is placed in the right direction of R.
+3 What is the relation of the agent S to the agent R?	upper-right	1
+1 M and G are horizontal and M is to the right of G.
+2 M is positioned right to K.
+3 What is the relation of the agent M to the agent G?	left	1
+1 D and Q are parallel, and D is to the right of Q.
+2 D is over there and N is on the right of it.
+3 What is the relation of the agent N to the agent Q?	overlap	1
+1 X is below T and to the left of T.
+2 T is to the left of L horizontally.
+3 What is the relation of the agent X to the agent L?	lower-left	1
+1 P is north west of N.
+2 X is to the bottom right of N.
+3 What is the relation of the agent P to the agent N?	upper-left	1
+1 S presents lower right to J.
+2 U is placed at the lower left of J.
+3 What is the relation of the agent U to the agent S?	left	1
+1 N is below Y at 7 o'clock.
+2 The object Y is positioned above and to the right of the object L.
+3 What is the relation of the agent L to the agent N?	overlap	1
+1 O is at the 6 o'clock position relative to B.
+2 Object O is above object U and to the left of it, too.
+3 What is the relation of the agent U to the agent B?	lower-right	1
+1 The object U and K are there. The object U is below and slightly to the right of the object K.
+2 The object U is positioned above and to the left of object X.
+3 What is the relation of the agent U to the agent K?	lower-right	1
+1 The objects S and V are over there. The object S is lower and slightly to the left of the object V.
+2 S is at the 9 o'clock position relative to Y.
+3 What is the relation of the agent Y to the agent S?	right	1
+1 G is placed at the upper right of Q.
+2 G is to the left of K with a small gap between them.
+3 What is the relation of the agent K to the agent G?	right	1
+1 B and I are parallel, and B on the right of I.
+2 I is at a 45 degree angle to M, in the lower righthand corner.
+3 What is the relation of the agent I to the agent B?	right	1
+1 A is over there and X is directly below it.
+2 Y is positioned right to A.
+3 What is the relation of the agent A to the agent X?	above	1
+1 Y presents upper left to N.
+2 N is positioned below T and to the left.
+3 What is the relation of the agent Y to the agent N?	upper-left	1
+1 H is sitting at the lower left position to R.
+2 R is positioned left to M.
+3 What is the relation of the agent M to the agent R?	right	1
+1 J is to the bottom left of Z.
+2 Z and U are next to each other with Z on the left and U on the right.
+3 What is the relation of the agent J to the agent Z?	lower-left	1
+1 Y presents lower left to L.
+2 Y is at P's 12 o'clock.
+3 What is the relation of the agent Y to the agent P?	above	1
+1 K presents left to S.
+2 C is positioned down and to the left of S.
+3 What is the relation of the agent C to the agent S?	lower-left	1
+1 S is sitting at the 3:00 position to Q.
+2 Q is over L.
+3 What is the relation of the agent S to the agent L?	upper-right	1
+1 Q is over there and L is on the top of it.
+2 R is over there and Q is directly below it.
+3 What is the relation of the agent L to the agent R?	overlap	1
+1 J is to the right and above E at an angle of about 45 degrees.
+2 E is over there and H is on the right.
+3 What is the relation of the agent J to the agent E?	upper-right	1
+1 Q is below I.
+2 I and N are in a vertical line with N below I.
+3 What is the relation of the agent I to the agent N?	above	1
+1 R is slightly off center to the top left and P is slightly off center to the bottom right.
+2 A and P are parallel, and A is to the right of P.
+3 What is the relation of the agent R to the agent A?	above	1
+1 Y is below N at 4 o'clock.
+2 Y is directly north west of V.
+3 What is the relation of the agent N to the agent Y?	upper-left	1
+1 Q is at the bottom of O.
+2 Q and G are parallel, and G is below Q.
+3 What is the relation of the agent Q to the agent G?	above	1
+1 B is sitting at the 9:00 position of J.
+2 W is on top of B.
+3 What is the relation of the agent W to the agent B?	above	1
+1 J is on the same horizontal plane directly left to H.
+2 H is below Y at 7 o'clock.
+3 What is the relation of the agent Y to the agent J?	upper-right	1
+1 The object R is positioned directly above the object K.
+2 D is to the top right of K.
+3 What is the relation of the agent K to the agent R?	below	1
+1 V is diagonally right and below W.
+2 W is on the top of D and is on the same vertical plane.
+3 What is the relation of the agent W to the agent D?	above	1
+1 K is over there and V is directly below it.
+2 D is at K's 3 o'clock.
+3 What is the relation of the agent D to the agent K?	right	1
+1 H and Z are parallel, and Z is below H.
+2 B and H are next to each other with H on the right and B on the left.
+3 What is the relation of the agent Z to the agent H?	below	1
+1 Z is above X at 10 o'clock.
+2 Z is upper right to U.
+3 What is the relation of the agent Z to the agent X?	upper-left	1
+1 V and J are parallel, and V on the left of J.
+2 V is over E.
+3 What is the relation of the agent E to the agent J?	lower-left	1
+1 J is on the same vertical plane directly below B.
+2 O is diagonally to the bottom left of B.
+3 What is the relation of the agent J to the agent B?	below	1
+1 P is above I at 2 o'clock.
+2 The objects Z and P are over there. The object Z is above and slightly to the right of the object P.
+3 What is the relation of the agent P to the agent Z?	lower-left	1
+1 I is positioned in the lower left corner of G.
+2 U is to the bottom-left of I.
+3 What is the relation of the agent U to the agent G?	lower-left	1
+1 B is to the bottom-left of S.
+2 A is to the right of S horizontally.
+3 What is the relation of the agent S to the agent A?	left	1
+1 J is south east of R.
+2 R is diagonally below M to the left at a 45 degree angle.
+3 What is the relation of the agent M to the agent J?	above	1
+1 M is on the left side of and below N.
+2 N and E are next to each other with E at the bottom N on the top.
+3 What is the relation of the agent E to the agent N?	below	1
+1 K and G are side by side with G at the bottom and K on the top.
+2 G is to the right of Q and is on the same horizontal plane.
+3 What is the relation of the agent Q to the agent K?	lower-left	1
+1 X is north west of V.
+2 X is placed at the upper right of G.
+3 What is the relation of the agent X to the agent G?	upper-right	1
+1 E is over there and S is on the top of it.
+2 B is over there and S is at the bottom of it.
+3 What is the relation of the agent S to the agent B?	below	1
+1 N is over there and T is on the left.
+2 A and T are in a horizontal line with T on the right.
+3 What is the relation of the agent T to the agent N?	left	1
+1 B is to the left of I and below I at approximately a 45 degree angle.
+2 S is to the bottom-left of B.
+3 What is the relation of the agent B to the agent I?	lower-left	1
+1 The object W is positioned below and to the right of the object N.
+2 W and A are parallel, and A is below W.
+3 What is the relation of the agent W to the agent A?	above	1
+1 If M is the center of a clock face, F is located between 2 and 3.
+2 F is to the right and above Q at an angle of about 45 degrees.
+3 What is the relation of the agent Q to the agent M?	right	1
+1 O is placed at the lower left of I.
+2 O is to the left of E and is on the same horizontal plane.
+3 What is the relation of the agent O to the agent I?	lower-left	1
+1 G is over there and S is on the right of it.
+2 N and G are parallel, and N on the left of G.
+3 What is the relation of the agent S to the agent N?	right	1
+1 P is sitting in the left direction of V.
+2 The object Y and V are there. The object Y is below and slightly to the right of the object V.
+3 What is the relation of the agent V to the agent Y?	upper-left	1
+1 The object T is positioned below and to the right of the object U.
+2 T and I are side by side with T to the right and I to the left.
+3 What is the relation of the agent U to the agent I?	above	1
+1 Z is over there with T above.
+2 Z is positioned below F and to the left.
+3 What is the relation of the agent T to the agent F?	upper-right	1
+1 T and G are in a horizontal line with G on the right.
+2 E is to the top right of G.
+3 What is the relation of the agent T to the agent E?	lower-left	1
+1 Object T is below object Z and to the right of it, too.
+2 T is positioned below H and to the right.
+3 What is the relation of the agent T to the agent H?	lower-right	1
+1 Y is to the upper left of G.
+2 P and G are horizontal and P is to the right of G.
+3 What is the relation of the agent G to the agent Y?	lower-right	1
+1 The object Q is upper and slightly to the right of the object M.
+2 P is to the left of M and is on the same horizontal plane.
+3 What is the relation of the agent Q to the agent P?	upper-right	1
+1 L is below and to the left of W.
+2 Z is sitting at the lower right position to W.
+3 What is the relation of the agent L to the agent W?	lower-left	1
+1 S is at the 6 o'clock position relative to V.
+2 S is to the right of Q with a small gap between them.
+3 What is the relation of the agent Q to the agent V?	lower-left	1
+1 J is below I and to the left of I.
+2 I and C are next to each other with C at the bottom I on the top.
+3 What is the relation of the agent J to the agent C?	left	1
+1 A is north east of E.
+2 N presents lower right to E.
+3 What is the relation of the agent N to the agent E?	lower-right	1
+1 K is sitting at the 6:00 position to M.
+2 K is on the top and A is at the bottom.
+3 What is the relation of the agent K to the agent M?	below	1
+1 L and F are next to each other with F on the right and L on the left.
+2 If F is the center of a clock face, G is located between 2 and 3.
+3 What is the relation of the agent L to the agent G?	lower-left	1
+1 J and V are parallel, and V is below J.
+2 J is to the right of X.
+3 What is the relation of the agent X to the agent V?	upper-left	1
+1 C is below L at 7 o'clock.
+2 D is at C’s 9 o'clock.
+3 What is the relation of the agent D to the agent L?	lower-left	1
+1 The object Q is upper and slightly to the right of the object I.
+2 T presents lower right to I.
+3 What is the relation of the agent I to the agent T?	upper-left	1
+1 W is positioned right to V.
+2 W is directly above U.
+3 What is the relation of the agent V to the agent U?	upper-left	1
+1 The objects D and C are over there. The object D is lower and slightly to the left of the object C.
+2 If S is the center of a clock face, D is located between 2 and 3.
+3 What is the relation of the agent S to the agent C?	lower-left	1
+1 F is to the left of O and is on the same horizontal plane.
+2 F is on the right and W is on the left.
+3 What is the relation of the agent F to the agent O?	left	1
+1 U presents below F.
+2 I is to the left of U.
+3 What is the relation of the agent I to the agent U?	left	1
+1 F is over there and M is directly above it.
+2 C is over there with F below.
+3 What is the relation of the agent C to the agent M?	overlap	1
+1 N and E are next to each other with N on the left and E on the right.
+2 N is positioned left to G.
+3 What is the relation of the agent E to the agent G?	overlap	1
+1 K and I are side by side with K to the right and I to the left.
+2 The object labeled K is positioned to the right of the object labeled Y.
+3 What is the relation of the agent I to the agent Y?	overlap	1
+1 H is to the right and above Y at an angle of about 45 degrees.
+2 C is slightly off center to the top left and H is slightly off center to the bottom right.
+3 What is the relation of the agent Y to the agent C?	overlap	1
+1 J is diagonally to the upper right of K.
+2 R is to the top-left of J.
+3 What is the relation of the agent J to the agent R?	lower-right	1
+1 W is sitting at the 12:00 position to K.
+2 K is positioned above and to the left of I.
+3 What is the relation of the agent K to the agent I?	upper-left	1
+1 H is directly north east of W.
+2 H and Y are both there with the object H above the object Y.
+3 What is the relation of the agent Y to the agent H?	below	1
+1 F is placed at the bottom of Z.
+2 F is directly above I.
+3 What is the relation of the agent F to the agent Z?	above	1
+1 W is placed at the upper right of A.
+2 A is diagonally right and above P.
+3 What is the relation of the agent W to the agent P?	upper-right	1
+1 J is over there and K is at the bottom of it.
+2 Q is above and to the right of K.
+3 What is the relation of the agent K to the agent J?	below	1
+1 H is to the right of D.
+2 H is at I's 12 o'clock.
+3 What is the relation of the agent H to the agent D?	right	1
+1 K is positioned above Y and to the left.
+2 Z is positioned below K and to the left.
+3 What is the relation of the agent Z to the agent K?	upper-right	1
+1 M and E are both there with the object E below the object M.
+2 J is placed at the lower left of M.
+3 What is the relation of the agent M to the agent E?	above	1
+1 S is sitting at the 12:00 position to A.
+2 S is there and F is at the 5 position of a clock face.
+3 What is the relation of the agent A to the agent F?	left	1
+1 A is sitting at the 12:00 position to O.
+2 V is to the left of A and below A at approximately a 45 degree angle.
+3 What is the relation of the agent A to the agent O?	above	1
+1 H is on the same vertical plane directly above I.
+2 F presents upper right to I.
+3 What is the relation of the agent H to the agent F?	left	1
+1 W is positioned in the front right corner of G.
+2 G is diagonally below Z to the right at a 45 degree angle.
+3 What is the relation of the agent Z to the agent W?	left	1
+1 C is south east of F.
+2 I is diagonally below F to the right at a 45 degree angle.
+3 What is the relation of the agent I to the agent F?	lower-right	1
+1 Object L is below object K and to the right of it, too.
+2 L is on the left and U is on the right.
+3 What is the relation of the agent K to the agent U?	upper-left	1
+1 P is sitting at the lower right position to H.
+2 Z and H are both there with the object H below the object Z.
+3 What is the relation of the agent Z to the agent H?	above	1
+1 The object W is positioned below and to the left of the object K.
+2 K is upper right to Z.
+3 What is the relation of the agent Z to the agent W?	overlap	1
+1 A is positioned in the lower left corner of Y.
+2 The object A is upper and slightly to the right of the object Z.
+3 What is the relation of the agent A to the agent Z?	upper-right	1
+1 A is positioned below and to the right of K.
+2 X is upper left of K.
+3 What is the relation of the agent X to the agent K?	upper-left	1
+1 I is directly south east of M.
+2 The objects I and S are over there. The object I is lower and slightly to the left of the object S.
+3 What is the relation of the agent I to the agent S?	lower-left	1
+1 Q is above and to the right of Y.
+2 The object O is positioned below and to the right of the object Y.
+3 What is the relation of the agent O to the agent Q?	below	1
+1 X is sitting at the lower position to A.
+2 H presents lower right to X.
+3 What is the relation of the agent H to the agent A?	lower-right	1
+1 G is to the upper left of K.
+2 I is diagonally below G to the right at a 45 degree angle.
+3 What is the relation of the agent I to the agent G?	lower-right	1
+1 N is on the right and L is on the left.
+2 N is over there with A below.
+3 What is the relation of the agent N to the agent L?	right	1
+1 R is positioned in the top left corner of B.
+2 R is diagonally to the bottom right of V.
+3 What is the relation of the agent V to the agent B?	upper-left	1
+1 R is to the right of J and is on the same horizontal plane.
+2 R and N are next to each other with N on the right and R on the left.
+3 What is the relation of the agent R to the agent J?	right	1
+1 C presents below T.
+2 A presents lower left to C.
+3 What is the relation of the agent C to the agent A?	upper-right	1
+1 G is diagonally below H to the right at a 45 degree angle.
+2 O is at the bottom and G is on the top.
+3 What is the relation of the agent H to the agent G?	upper-left	1
+1 The object F is positioned directly below the object P.
+2 P is sitting at the upper right position to O.
+3 What is the relation of the agent P to the agent O?	upper-right	1
+1 S is sitting at the lower right position to Z.
+2 B is at the lower side of S.
+3 What is the relation of the agent B to the agent S?	below	1
+1 I is on the top and O is at the bottom.
+2 A is slightly off center to the top left and O is slightly off center to the bottom right.
+3 What is the relation of the agent A to the agent I?	left	1
+1 T is diagonally to the upper right of I.
+2 The object I is positioned directly above the object W.
+3 What is the relation of the agent W to the agent T?	right	1
+1 W is on the same horizontal plane directly right to M.
+2 O is lower right of M.
+3 What is the relation of the agent M to the agent O?	upper-left	1
+1 V is positioned below X and to the right.
+2 X is above and to the right of J.
+3 What is the relation of the agent X to the agent V?	upper-left	1
+1 Z is at the 3 o'clock position relative to W.
+2 W is to the right of N and is on the same horizontal plane.
+3 What is the relation of the agent N to the agent W?	left	1
+1 L is positioned right to C.
+2 K is on the left side of and below C.
+3 What is the relation of the agent C to the agent L?	left	1
+1 O is over there and J is on the left.
+2 E is to the left of O with a small gap between them.
+3 What is the relation of the agent J to the agent O?	left	1
+1 N and A are in a horizontal line with A on the right.
+2 R is to the left of N with a small gap between them.
+3 What is the relation of the agent A to the agent N?	right	1
+1 M is slightly off center to the top left and S is slightly off center to the bottom right.
+2 T is on the lower left of S.
+3 What is the relation of the agent T to the agent S?	lower-left	1
+1 V is positioned down and to the left of T.
+2 X is under T.
+3 What is the relation of the agent X to the agent V?	right	1
+1 The object Q is positioned above and to the left of object T.
+2 T is positioned in the front right corner of I.
+3 What is the relation of the agent Q to the agent I?	above	1
+1 R is to the left of J and below J at approximately a 45 degree angle.
+2 B is at J’s 9 o'clock.
+3 What is the relation of the agent J to the agent B?	right	1
+1 B is to the bottom-right of P.
+2 N is positioned in the lower right corner of B.
+3 What is the relation of the agent N to the agent B?	lower-right	1
+1 V presents upper right to I.
+2 V is directly south east of P.
+3 What is the relation of the agent I to the agent V?	lower-left	1
+1 W and B are vertical and W is below B.
+2 B presents left to L.
+3 What is the relation of the agent B to the agent W?	above	1
+1 N is on the lower right of I.
+2 N is at the 6 o'clock position relative to S.
+3 What is the relation of the agent N to the agent I?	lower-right	1
+1 K is at the 9 o'clock position relative to U.
+2 K is over there and M is at the bottom of it.
+3 What is the relation of the agent K to the agent M?	above	1
+1 P is diagonally right and below A.
+2 H is on the top side to P.
+3 What is the relation of the agent H to the agent A?	right	1
+1 H is at J's 3 o'clock.
+2 H and O are parallel, and H is on top of O.
+3 What is the relation of the agent J to the agent H?	left	1
+1 E is on the left side of and below T.
+2 E is to the bottom-left of S.
+3 What is the relation of the agent S to the agent E?	upper-right	1
+1 B is diagonally to the bottom right of K.
+2 D is at the 3 o'clock position relative to K.
+3 What is the relation of the agent D to the agent K?	right	1
+1 The object B is positioned below and to the left of the object I.
+2 I presents left to D.
+3 What is the relation of the agent D to the agent B?	upper-right	1
+1 F is at a 45 degree angle to Z, in the upper righthand corner.
+2 F is north west of S.
+3 What is the relation of the agent F to the agent S?	upper-left	1
+1 W is below G and to the left of G.
+2 M presents below G.
+3 What is the relation of the agent W to the agent M?	lower-left	1
+1 N is lower right of C.
+2 M is below C at 7 o'clock.
+3 What is the relation of the agent N to the agent C?	lower-right	1
+1 S is to the right of J with a small gap between them.
+2 V is positioned above and to the left of S.
+3 What is the relation of the agent J to the agent V?	below	1
+1 J is to the top right of O.
+2 O and B are in a horizontal line with O on the left.
+3 What is the relation of the agent J to the agent O?	upper-right	1
+1 N is on the right side and below Y.
+2 J is positioned above Y and to the left.
+3 What is the relation of the agent J to the agent Y?	upper-left	1
+1 A is at the 3 o'clock position relative to H.
+2 M is to the bottom-right of H.
+3 What is the relation of the agent A to the agent H?	right	1
+1 D is on the top of W and is on the same vertical plane.
+2 The objects C and W are over there. The object C is above and slightly to the right of the object W.
+3 What is the relation of the agent W to the agent D?	below	1
+1 U is at a 45 degree angle to Q, in the lower righthand corner.
+2 K and U are in a horizontal line with U on the right.
+3 What is the relation of the agent K to the agent Q?	below	1
+1 G is at a 45 degree angle to Q, in the upper righthand corner.
+2 G is on the lower left of D.
+3 What is the relation of the agent G to the agent Q?	upper-right	1
+1 R is to the left of D with a small gap between them.
+2 T is diagonally above D to the right at a 45 degree.
+3 What is the relation of the agent D to the agent R?	right	1
+1 G is placed at the upper left of M.
+2 M presents right to U.
+3 What is the relation of the agent U to the agent G?	below	1
+1 E is on the right and W is on the left.
+2 E is below I.
+3 What is the relation of the agent E to the agent W?	right	1
+1 U is sitting at the upper right position to F.
+2 E is north east of U.
+3 What is the relation of the agent U to the agent F?	upper-right	1
+1 L is positioned in the lower right corner of W.
+2 U is to the top-left of W.
+3 What is the relation of the agent U to the agent W?	upper-left	1
+1 Q is to the left of J and is on the same horizontal plane.
+2 J and R are both there with the object R below the object J.
+3 What is the relation of the agent Q to the agent R?	upper-left	1
+1 H is on the same vertical plane directly above N.
+2 Z is to the right and above H at an angle of about 45 degrees.
+3 What is the relation of the agent Z to the agent H?	upper-right	1
+1 R presents upper right to A.
+2 R is slightly off center to the top left and D is slightly off center to the bottom right.
+3 What is the relation of the agent R to the agent A?	upper-right	1
+1 J is positioned above Y and to the left.
+2 Y is sitting in the left direction of T.
+3 What is the relation of the agent T to the agent J?	lower-right	1
+1 G presents right to N.
+2 C is at N's 3 o'clock.
+3 What is the relation of the agent C to the agent G?	overlap	1
+1 C is on the upper right of R.
+2 Q and C are next to each other with Q on the left and C on the right.
+3 What is the relation of the agent R to the agent Q?	below	1
+1 U is placed at the lower right of Q.
+2 Q is at the lower side of N.
+3 What is the relation of the agent Q to the agent N?	below	1
+1 Z is positioned above V.
+2 V is positioned in the front right corner of B.
+3 What is the relation of the agent Z to the agent V?	above	1
+1 B is directly above H.
+2 H is on the same horizontal plane directly left to J.
+3 What is the relation of the agent J to the agent B?	lower-right	1
+1 I is at Y's 12 o'clock.
+2 Y is to the right of T.
+3 What is the relation of the agent Y to the agent I?	below	1
+1 T is below and to the left of A.
+2 G is positioned above T.
+3 What is the relation of the agent T to the agent A?	lower-left	1
+1 The object K and L are there. The object L is above and slightly to the left of the object K.
+2 Z is sitting at the lower position to L.
+3 What is the relation of the agent K to the agent L?	lower-right	1
+1 T is south west of D.
+2 O is at a 45 degree angle to D, in the lower righthand corner.
+3 What is the relation of the agent O to the agent D?	lower-right	1
+1 The object M is upper and slightly to the right of the object F.
+2 Q and F are parallel, and F is below Q.
+3 What is the relation of the agent F to the agent Q?	below	1
+1 N is placed at the upper right of Q.
+2 O is to the left of Q and is on the same horizontal plane.
+3 What is the relation of the agent Q to the agent O?	right	1
+1 I is on the left side to L.
+2 L is over there and B is on the left of it.
+3 What is the relation of the agent I to the agent L?	left	1
+1 E is placed at the lower left of S.
+2 E and P are parallel, and E is on top of P.
+3 What is the relation of the agent E to the agent S?	lower-left	1
+1 S is to the top right of R.
+2 S is placed on the top of C.
+3 What is the relation of the agent C to the agent R?	right	1
+1 L is at a 45 degree angle to U, in the upper righthand corner.
+2 P is sitting at the lower left position to L.
+3 What is the relation of the agent L to the agent P?	upper-right	1
+1 B is to the right of V horizontally.
+2 A is placed in the left direction of B.
+3 What is the relation of the agent V to the agent B?	left	1
+1 B presents over U.
+2 The object Q is upper and slightly to the left of the object B.
+3 What is the relation of the agent Q to the agent U?	upper-left	1
+1 E is positioned left to U.
+2 U is to the left of Q with a small gap between them.
+3 What is the relation of the agent U to the agent E?	right	1
+1 X is above G and to the right of G.
+2 X is directly above L.
+3 What is the relation of the agent X to the agent G?	upper-right	1
+1 Object K is below object G and to the right of it, too.
+2 Object K is above object Y and to the left of it, too.
+3 What is the relation of the agent G to the agent Y?	upper-left	1
+1 R is diagonally to the upper left of E.
+2 E presents lower right to W.
+3 What is the relation of the agent W to the agent R?	overlap	1
+1 R is at the bottom and U is on the top.
+2 R is over there and E is on the right of it.
+3 What is the relation of the agent R to the agent E?	left	1
+1 O is above J at 10 o'clock.
+2 L is over O.
+3 What is the relation of the agent O to the agent L?	below	1
+1 R is over there with G above.
+2 R and N are both there with the object N below the object R.
+3 What is the relation of the agent G to the agent N?	above	1
+1 Y presents over B.
+2 B is there and A is at the 5 position of a clock face.
+3 What is the relation of the agent A to the agent B?	lower-right	1
+1 Y is on the same horizontal plane directly left to U.
+2 P presents below U.
+3 What is the relation of the agent Y to the agent P?	lower-left	1
+1 Object A is above object F and to the right of it, too.
+2 A is over there and I is on the right of it.
+3 What is the relation of the agent I to the agent A?	right	1
+1 R is south east of E.
+2 E is to the bottom-left of K.
+3 What is the relation of the agent R to the agent E?	lower-right	1
+1 X is over there and E is on the right.
+2 E is diagonally to the bottom right of J.
+3 What is the relation of the agent J to the agent X?	above	1
+1 R presents upper left to X.
+2 X is above Y and to the left of Y.
+3 What is the relation of the agent Y to the agent R?	lower-right	1
+1 R is at Y's 6 o'clock.
+2 R is on top of A.
+3 What is the relation of the agent A to the agent Y?	below	1
+1 Z is on the same horizontal plane directly right to O.
+2 A is placed at the upper right of Z.
+3 What is the relation of the agent Z to the agent A?	lower-left	1
+1 C and L are side by side with C on the top and L at the bottom.
+2 L is at V's 12 o'clock.
+3 What is the relation of the agent L to the agent C?	below	1
+1 D is diagonally above Z to the left at a 45 degree angle.
+2 C is on the right side and below D.
+3 What is the relation of the agent D to the agent Z?	upper-left	1
+1 L is to the top-left of R.
+2 R and E are vertical and R is above E.
+3 What is the relation of the agent R to the agent L?	lower-right	1
+1 C is placed in the left direction of X.
+2 The object F is positioned below and to the right of the object X.
+3 What is the relation of the agent C to the agent X?	left	1
+1 If W is the center of a clock face, O is located between 2 and 3.
+2 The object O is positioned above and to the right of the object P.
+3 What is the relation of the agent O to the agent P?	upper-right	1
+1 Y is sitting at the lower left position to F.
+2 F is on the right side and below A.
+3 What is the relation of the agent Y to the agent A?	below	1
+1 Object U is below object P and to the right of it, too.
+2 P is on the same vertical plane directly below N.
+3 What is the relation of the agent U to the agent P?	lower-right	1
+1 H is on the left and D is on the right.
+2 I is sitting at the 6:00 position to H.
+3 What is the relation of the agent I to the agent H?	below	1
+1 O is sitting at the 6:00 position to R.
+2 O and I are parallel, and O is to the right of I.
+3 What is the relation of the agent I to the agent R?	lower-right	1
+1 Z is sitting at the lower position to A.
+2 A is placed at the upper right of F.
+3 What is the relation of the agent F to the agent Z?	left	1
+1 R is over there and J is on the left.
+2 S is at the bottom and R is on the top.
+3 What is the relation of the agent S to the agent R?	below	1
+1 B is to the bottom right of G.
+2 V is to the bottom left of B.
+3 What is the relation of the agent G to the agent V?	above	1
+1 The objects R and B are over there. The object R is lower and slightly to the left of the object B.
+2 The object B is positioned above and to the right of the object U.
+3 What is the relation of the agent R to the agent B?	lower-left	1
+1 V is positioned left to U.
+2 Y is there and U is at the 10 position of a clock face.
+3 What is the relation of the agent Y to the agent V?	lower-right	1
+1 D is positioned above Y.
+2 Y is sitting at the upper right position to V.
+3 What is the relation of the agent Y to the agent V?	upper-right	1
+1 X is north west of D.
+2 B is sitting in the right direction of D.
+3 What is the relation of the agent B to the agent D?	right	1
+1 Z is there and U is at the 10 position of a clock face.
+2 K is at a 45 degree angle to Z, in the lower lefthand corner.
+3 What is the relation of the agent Z to the agent U?	lower-right	1
+1 M and C are in a horizontal line with M on the left.
+2 If C is the center of a clock face, Y is located between 2 and 3.
+3 What is the relation of the agent Y to the agent C?	upper-right	1
+1 O is to the left of T and is on the same horizontal plane.
+2 N is directly south east of O.
+3 What is the relation of the agent O to the agent T?	left	1
+1 If O is the center of a clock face, D is located between 2 and 3.
+2 D is directly below F.
+3 What is the relation of the agent D to the agent F?	below	1
+1 L is at the 6 o'clock position relative to W.
+2 T is sitting in the left direction of L.
+3 What is the relation of the agent W to the agent L?	above	1
+1 B is on the left and F is on the right.
+2 A is at the bottom and F is on the top.
+3 What is the relation of the agent B to the agent A?	upper-left	1
+1 Object X is below object Y and to the left of it, too.
+2 X is diagonally below O to the right at a 45 degree angle.
+3 What is the relation of the agent O to the agent X?	upper-left	1
+1 T is positioned up and to the right of U.
+2 The object U is lower and slightly to the right of the object V.
+3 What is the relation of the agent V to the agent U?	upper-left	1
+1 R is lower right of T.
+2 O and R are vertical and O is below R.
+3 What is the relation of the agent T to the agent R?	upper-left	1
+1 M is on the right side and top of F.
+2 F is slightly off center to the top left and P is slightly off center to the bottom right.
+3 What is the relation of the agent P to the agent M?	below	1
+1 V is directly south west of C.
+2 N is at C’s 9 o'clock.
+3 What is the relation of the agent N to the agent C?	left	1
+1 L is there and J is at the 5 position of a clock face.
+2 J is positioned in the lower right corner of P.
+3 What is the relation of the agent P to the agent J?	upper-left	1
+1 N is on the left side to Z.
+2 The objects M and N are over there. The object M is lower and slightly to the left of the object N.
+3 What is the relation of the agent Z to the agent N?	right	1
+1 C is to the right of O horizontally.
+2 K is below C and to the left of C.
+3 What is the relation of the agent C to the agent O?	right	1
+1 L is positioned below E and to the left.
+2 The object labeled L is positioned to the right of the object labeled O.
+3 What is the relation of the agent O to the agent L?	left	1
+1 K is to the left of E and is on the same horizontal plane.
+2 K is to the top-right of I.
+3 What is the relation of the agent E to the agent I?	upper-right	1
+1 F is below D.
+2 Z is positioned down and to the left of F.
+3 What is the relation of the agent Z to the agent D?	lower-left	1
+1 J presents lower right to M.
+2 S and M are vertical and S is above M.
+3 What is the relation of the agent M to the agent S?	below	1
+1 Z is positioned above Q and to the right.
+2 Q presents lower left to N.
+3 What is the relation of the agent N to the agent Z?	overlap	1
+1 The object X is positioned above and to the left of object G.
+2 G is diagonally right and below J.
+3 What is the relation of the agent G to the agent J?	lower-right	1
+1 X is directly south east of C.
+2 G is on the right side and below X.
+3 What is the relation of the agent C to the agent G?	upper-left	1
+1 C is to the top right of R.
+2 R is placed on the top of Q.
+3 What is the relation of the agent Q to the agent C?	lower-left	1
+1 K is positioned below and to the right of F.
+2 T is at the 9 o'clock position relative to F.
+3 What is the relation of the agent T to the agent K?	upper-left	1
+1 U and V are next to each other with U on the left and V on the right.
+2 U and Y are both there with the object U is to the right of object Y.
+3 What is the relation of the agent V to the agent U?	right	1
+1 A is positioned in the top left corner of Z.
+2 P is over there and A is on the top of it.
+3 What is the relation of the agent Z to the agent P?	right	1
+1 If L is the center of a clock face, C is located between 4 and 5.
+2 L is at the 12 o'clock position relative to Y.
+3 What is the relation of the agent Y to the agent C?	left	1
+1 C is positioned below and to the right of L.
+2 The objects L and Z are over there. The object L is above and slightly to the right of the object Z.
+3 What is the relation of the agent Z to the agent C?	left	1
+1 B is positioned above M and to the right.
+2 I is below and to the right of M.
+3 What is the relation of the agent M to the agent B?	lower-left	1
+1 B presents lower left to P.
+2 X is sitting at the lower position to B.
+3 What is the relation of the agent X to the agent P?	lower-left	1
+1 C is placed at the lower left of D.
+2 M is sitting at the upper left position to D.
+3 What is the relation of the agent M to the agent D?	upper-left	1
+1 Y is at the 3 o'clock position relative to U.
+2 Y is at a 45 degree angle to X, in the upper lefthand corner.
+3 What is the relation of the agent U to the agent X?	upper-left	1
+1 Y is over there and W is on the top of it.
+2 W is sitting at the 3:00 position to T.
+3 What is the relation of the agent W to the agent T?	right	1
+1 Q is north west of B.
+2 Q is over D.
+3 What is the relation of the agent D to the agent B?	left	1
+1 T is positioned below N and to the right.
+2 T is at the 12 o'clock position relative to Q.
+3 What is the relation of the agent T to the agent N?	lower-right	1
+1 The object R is lower and slightly to the left of the object V.
+2 V is over there and C is on the top of it.
+3 What is the relation of the agent C to the agent V?	above	1
+1 R is above and to the left of V.
+2 The object R is positioned below and to the left of the object J.
+3 What is the relation of the agent V to the agent J?	below	1
+1 K is at X's 12 o'clock.
+2 T is over there and X is on the top of it.
+3 What is the relation of the agent K to the agent X?	above	1
+1 S is directly south west of Q.
+2 U is to the right of S horizontally.
+3 What is the relation of the agent S to the agent U?	left	1
+1 O is at a 45 degree angle to G, in the upper lefthand corner.
+2 The object H is positioned directly above the object O.
+3 What is the relation of the agent H to the agent G?	upper-left	1
+1 D and V are next to each other with V at the bottom D on the top.
+2 If D is the center of a clock face, O is located between 7 and 8.
+3 What is the relation of the agent O to the agent D?	lower-left	1
+1 B and Z are parallel, and B on the left of Z.
+2 V is over there and Z is on the right.
+3 What is the relation of the agent Z to the agent V?	right	1
+1 E is below H with a small gap between them.
+2 B is at the 12 o'clock position relative to E.
+3 What is the relation of the agent B to the agent E?	above	1
+1 E and W are next to each other with W at the bottom E on the top.
+2 W is to the top-left of I.
+3 What is the relation of the agent E to the agent W?	above	1
+1 M is on the right and V is on the left.
+2 T is positioned above V and to the left.
+3 What is the relation of the agent V to the agent M?	left	1
+1 R is positioned down and to the left of K.
+2 L is slightly off center to the top left and K is slightly off center to the bottom right.
+3 What is the relation of the agent K to the agent L?	lower-right	1
+1 W is north east of J.
+2 U is at a 45 degree angle to J, in the lower lefthand corner.
+3 What is the relation of the agent J to the agent W?	lower-left	1
+1 V is on the right side and below J.
+2 Z is directly north east of V.
+3 What is the relation of the agent J to the agent V?	upper-left	1
+1 K is on the left side and above M.
+2 M is over I.
+3 What is the relation of the agent K to the agent I?	upper-left	1
+1 C is on the same vertical plane directly below H.
+2 C is to the bottom right of O.
+3 What is the relation of the agent C to the agent H?	below	1
+1 The object X is positioned below and to the left of the object I.
+2 F is sitting in the left direction of I.
+3 What is the relation of the agent X to the agent F?	below	1
+1 A is to the left of S and is on the same horizontal plane.
+2 D is over there and A is on the right.
+3 What is the relation of the agent D to the agent S?	left	1
+1 B is positioned in the front right corner of H.
+2 If U is the center of a clock face, H is located between 4 and 5.
+3 What is the relation of the agent B to the agent H?	upper-right	1
+1 Object S is above object J and to the left of it, too.
+2 Z and S are parallel, and Z on the right of S.
+3 What is the relation of the agent S to the agent J?	upper-left	1
+1 X is on the lower right of M.
+2 P is at the bottom of X.
+3 What is the relation of the agent M to the agent X?	upper-left	1
+1 If A is the center of a clock face, Y is located between 10 and 11.
+2 A is to the right of L.
+3 What is the relation of the agent L to the agent Y?	below	1
+1 Q and G are parallel, and Q on the left of G.
+2 D and G are parallel, and D on the left of G.
+3 What is the relation of the agent Q to the agent D?	overlap	1
+1 V is at the bottom of M vertically.
+2 The object M and N are there. The object M is below and slightly to the right of the object N.
+3 What is the relation of the agent V to the agent N?	lower-right	1
+1 The object G is lower and slightly to the left of the object I.
+2 B is over there with I below.
+3 What is the relation of the agent B to the agent I?	above	1
+1 V is placed at the lower left of U.
+2 G is over there and V is on the left of it.
+3 What is the relation of the agent V to the agent U?	lower-left	1
+1 Object A is above object D and to the right of it, too.
+2 W is to the bottom-left of D.
+3 What is the relation of the agent D to the agent E?	upper-right	1
+1 L is placed at the lower left of E.
+2 The object K is lower and slightly to the left of the object L.
+3 What is the relation of the agent K to the agent E?	lower-left	1
+1 The object D is lower and slightly to the right of the object U.
+2 D is at a 45 degree angle to E, in the lower lefthand corner.
+3 What is the relation of the agent E to the agent U?	right	1
+1 B and V are parallel, and B is over V.
+2 F is on the same horizontal plane directly right to V.
+3 What is the relation of the agent V to the agent B?	below	1
+1 The object T is positioned below and to the left of the object F.
+2 W is directly below F.
+3 What is the relation of the agent W to the agent T?	right	1
+1 Z is on the left side and above N.
+2 T is positioned right to N.
+3 What is the relation of the agent T to the agent Z?	lower-right	1
+1 E is slightly off center to the top left and D is slightly off center to the bottom right.
+2 Z is on the same vertical plane directly above E.
+3 What is the relation of the agent D to the agent Z?	lower-right	1
+1 V is to the top right of U.
+2 The object F is positioned below and to the right of the object U.
+3 What is the relation of the agent V to the agent U?	upper-right	1
+1 U and Z are horizontal and U is to the left of Z.
+2 L is directly north east of Z.
+3 What is the relation of the agent Z to the agent L?	lower-left	1
+1 Z is positioned left to S.
+2 Z is diagonally below X to the right at a 45 degree angle.
+3 What is the relation of the agent Z to the agent S?	left	1
+1 L is slightly off center to the top left and U is slightly off center to the bottom right.
+2 W is lower right of U.
+3 What is the relation of the agent W to the agent U?	lower-right	1
+1 The object U is positioned above and to the right of the object D.
+2 The object labeled P is positioned to the right of the object labeled D.
+3 What is the relation of the agent U to the agent D?	upper-right	1
+1 E is on the top side to P.
+2 F is on the same vertical plane directly above P.
+3 What is the relation of the agent F to the agent E?	overlap	1
+1 H is diagonally right and below Q.
+2 Y is to the bottom-left of H.
+3 What is the relation of the agent H to the agent Y?	upper-right	1
+1 C is below J at 7 o'clock.
+2 E is sitting at the 9:00 position of C.
+3 What is the relation of the agent E to the agent C?	left	1
+1 R is above S at 10 o'clock.
+2 A is below S and to the right of S.
+3 What is the relation of the agent S to the agent A?	upper-left	1
+1 O is positioned down and to the left of Z.
+2 O is there and V is at the 5 position of a clock face.
+3 What is the relation of the agent O to the agent V?	upper-left	1
+1 I presents lower right to A.
+2 D is sitting at the 9:00 position of A.
+3 What is the relation of the agent D to the agent A?	left	1
+1 W is diagonally below D to the left at a 45 degree angle.
+2 M is sitting at the lower position to W.
+3 What is the relation of the agent M to the agent W?	below	1
+1 L is slightly off center to the top left and V is slightly off center to the bottom right.
+2 A is to the bottom right of V.
+3 What is the relation of the agent L to the agent A?	upper-left	1
+1 P is slightly off center to the top left and R is slightly off center to the bottom right.
+2 A is positioned below R.
+3 What is the relation of the agent R to the agent A?	above	1
+1 I is north east of T.
+2 I and D are side by side with I to the left and D to the right.
+3 What is the relation of the agent I to the agent D?	left	1
+1 P is over there and I is on the right.
+2 P is to the bottom-left of C.
+3 What is the relation of the agent C to the agent I?	above	1
+1 B is over there and E is at the bottom of it.
+2 A is directly below B.
+3 What is the relation of the agent B to the agent A?	above	1
+1 A is below G.
+2 I is to the top-right of A.
+3 What is the relation of the agent I to the agent G?	right	1
+1 A is at R's 3 o'clock.
+2 Y is over there and R is on the left.
+3 What is the relation of the agent A to the agent R?	right	1
+1 A is placed in the left direction of D.
+2 K is sitting in the left direction of A.
+3 What is the relation of the agent D to the agent K?	right	1
+1 F presents right to N.
+2 Z and N are vertical and Z is below N.
+3 What is the relation of the agent F to the agent Z?	upper-right	1
+1 K and Q are parallel, and K on the right of Q.
+2 K is slightly off center to the top left and A is slightly off center to the bottom right.
+3 What is the relation of the agent A to the agent Q?	below	1
+1 Q is on the lower left of Z.
+2 E is diagonally to the upper left of Z.
+3 What is the relation of the agent Q to the agent Z?	lower-left	1
+1 F is at the bottom of C and is on the same vertical plane.
+2 L is sitting at the top position to F.
+3 What is the relation of the agent L to the agent F?	above	1
+1 B is below and to the left of Z.
+2 P is slightly off center to the top left and B is slightly off center to the bottom right.
+3 What is the relation of the agent Z to the agent P?	right	1
+1 Q is positioned below O and to the left.
+2 O is over K.
+3 What is the relation of the agent K to the agent Q?	lower-left	1
+1 J is diagonally above K to the left at a 45 degree angle.
+2 J is above C and to the right of C.
+3 What is the relation of the agent C to the agent J?	lower-left	1
+1 J is sitting at the lower right position to L.
+2 X is diagonally above L to the right at a 45 degree.
+3 What is the relation of the agent L to the agent J?	upper-left	1
+1 B is below F.
+2 T is on the same horizontal plane directly right to F.
+3 What is the relation of the agent T to the agent F?	right	1
+1 R is to the right of K and is on the same horizontal plane.
+2 A is above R at 2 o'clock.
+3 What is the relation of the agent K to the agent A?	lower-left	1
+1 J is at H's 12 o'clock.
+2 Q is above and to the right of H.
+3 What is the relation of the agent J to the agent H?	above	1
+1 L is below and to the left of W.
+2 L and O are parallel, and L is to the left of O.
+3 What is the relation of the agent O to the agent L?	right	1
+1 Y is to the left of E.
+2 E is positioned in the lower right corner of A.
+3 What is the relation of the agent Y to the agent E?	left	1
+1 M is above F and to the left of F.
+2 F and X are horizontal and F is to the left of X.
+3 What is the relation of the agent F to the agent X?	left	1
+1 O presents left to U.
+2 R and O are side by side with R to the right and O to the left.
+3 What is the relation of the agent R to the agent O?	right	1
+1 R is positioned below C and to the left.
+2 C and F are horizontal and C is to the right of F.
+3 What is the relation of the agent R to the agent C?	upper-right	1
+1 M is at the 12 o'clock position relative to C.
+2 S is to the left of C with a small gap between them.
+3 What is the relation of the agent M to the agent S?	upper-right	1
+1 O is at the 6 o'clock position relative to J.
+2 G is below J.
+3 What is the relation of the agent O to the agent J?	below	1
+1 If N is the center of a clock face, T is located between 2 and 3.
+2 T is over there with O above.
+3 What is the relation of the agent T to the agent O?	below	1
+1 U is at the bottom of K and is on the same vertical plane.
+2 If U is the center of a clock face, J is located between 10 and 11.
+3 What is the relation of the agent K to the agent U?	below	1
+1 C is to the left of B and is on the same horizontal plane.
+2 C is on the left and O is on the right.
+3 What is the relation of the agent C to the agent O?	left	1
+1 U is below H.
+2 H and T are parallel, and H is under T.
+3 What is the relation of the agent T to the agent U?	above	1
+1 M is at the 12 o'clock position relative to V.
+2 S is above M at 10 o'clock.
+3 What is the relation of the agent M to the agent S?	lower-right	1
+1 Q is to the right of B and is on the same horizontal plane.
+2 Object F is below object Q and to the left of it, too.
+3 What is the relation of the agent Q to the agent B?	right	1
+1 C is at S's 3 o'clock.
+2 H is on the left and S is on the right.
+3 What is the relation of the agent H to the agent S?	left	1
+1 E is at the 3 o'clock position relative to A.
+2 A is sitting in the right direction of F.
+3 What is the relation of the agent F to the agent A?	left	1
+1 I is positioned down and to the left of S.
+2 S is at the bottom of W.
+3 What is the relation of the agent S to the agent I?	upper-right	1
+1 R is sitting at the upper left position to S.
+2 S is below Q with a small gap between them.
+3 What is the relation of the agent R to the agent Q?	left	1
+1 J is above and to the right of U.
+2 The object U is positioned above and to the right of the object T.
+3 What is the relation of the agent T to the agent J?	lower-left	1
+1 A is north east of E.
+2 E is diagonally above F to the left at a 45 degree angle.
+3 What is the relation of the agent F to the agent A?	below	1
+1 Z is sitting at the upper right position to Y.
+2 The object Z is positioned above and to the right of the object W.
+3 What is the relation of the agent Z to the agent W?	upper-right	1
+1 M and P are both there with the object M is to the left of object P.
+2 F is there and M is at the 2 position of a clock face F.
+3 What is the relation of the agent F to the agent M?	lower-left	1
+1 The object L is upper and slightly to the left of the object J.
+2 The object labeled J is positioned to the left of the object labeled O.
+3 What is the relation of the agent O to the agent J?	right	1
+1 V is on the left and O is on the right.
+2 V is positioned right to J.
+3 What is the relation of the agent J to the agent O?	left	1
+1 S is on the left and B is on the right.
+2 N and B are both there with the object N is to the left of object B.
+3 What is the relation of the agent B to the agent N?	right	1
+1 H is over there and Y is at the bottom of it.
+2 H is diagonally right and below J.
+3 What is the relation of the agent H to the agent Y?	above	1
+1 D is at C's 6 o'clock.
+2 M is above C at 10 o'clock.
+3 What is the relation of the agent C to the agent M?	lower-right	1
+1 B is north east of Q.
+2 H is sitting at the lower left position to B.
+3 What is the relation of the agent H to the agent B?	lower-left	1
+1 J and Y are parallel, and J is to the right of Y.
+2 Q is to the top right of J.
+3 What is the relation of the agent Q to the agent Y?	above	1
+1 P is diagonally below J to the right at a 45 degree angle.
+2 R and J are parallel, and R is under J.
+3 What is the relation of the agent J to the agent P?	upper-left	1
+1 Y and K are parallel, and Y is over K.
+2 The object Y is upper and slightly to the left of the object P.
+3 What is the relation of the agent Y to the agent K?	above	1
+1 G is positioned down and to the left of Z.
+2 G is above M and to the right of M.
+3 What is the relation of the agent M to the agent Z?	lower-left	1
+1 C is on the left side of and below J.
+2 The object C is positioned below and to the right of the object R.
+3 What is the relation of the agent J to the agent C?	upper-right	1
+1 P is on the lower right of O.
+2 Y is placed at the bottom of O.
+3 What is the relation of the agent O to the agent Y?	below	1
+1 J is placed in the right direction of B.
+2 B and Y are next to each other with B on the left and Y on the right.
+3 What is the relation of the agent B to the agent Y?	left	1
+1 M is below T at 4 o'clock.
+2 Z and M are horizontal and Z is to the right of M.
+3 What is the relation of the agent T to the agent M?	upper-left	1
+1 V is on the left side and above H.
+2 X is diagonally left and above X.
+3 What is the relation of the agent V to the agent X?	lower-right	1
+1 K is diagonally below Z to the right at a 45 degree angle.
+2 F is at the 9 o'clock position relative to K.
+3 What is the relation of the agent F to the agent K?	left	1
+1 I is diagonally below Y to the left at a 45 degree angle.
+2 N is sitting at the lower right position to Y.
+3 What is the relation of the agent Y to the agent N?	upper-left	1
+1 E is diagonally below R to the right at a 45 degree angle.
+2 R is on the lower left of M.
+3 What is the relation of the agent R to the agent M?	lower-left	1
+1 The object labeled G is positioned to the left of the object labeled N.
+2 G is positioned in the top left corner of B.
+3 What is the relation of the agent B to the agent G?	lower-right	1
+1 A is directly north east of O.
+2 N is directly above A.
+3 What is the relation of the agent N to the agent O?	upper-right	1
+1 B is there and V is at the 10 position of a clock face.
+2 V and Q are parallel, and V is to the right of Q.
+3 What is the relation of the agent Q to the agent V?	right	1
+1 A is at the bottom and B is on the top.
+2 B and R are side by side with B to the right and R to the left.
+3 What is the relation of the agent B to the agent A?	above	1
+1 The object Y is lower and slightly to the left of the object W.
+2 Y is sitting at the 9:00 position of C.
+3 What is the relation of the agent C to the agent Y?	right	1
+1 D is there and J is at the 10 position of a clock face.
+2 D is at a 45 degree angle to M, in the upper lefthand corner.
+3 What is the relation of the agent M to the agent D?	lower-right	1
+1 D is diagonally right and below T.
+2 G is at a 45 degree angle to T, in the upper lefthand corner.
+3 What is the relation of the agent D to the agent T?	lower-right	1
+1 R is below S at 7 o'clock.
+2 S is positioned below and to the right of O.
+3 What is the relation of the agent S to the agent R?	upper-right	1
+1 A is directly below H.
+2 H and N are parallel, and H is to the right of N.
+3 What is the relation of the agent H to the agent A?	above	1
+1 R is below E at 4 o'clock.
+2 G and R are next to each other with R at the bottom G on the top.
+3 What is the relation of the agent R to the agent G?	below	1
+1 N is directly south east of F.
+2 F and D are parallel, and F on the left of D.
+3 What is the relation of the agent N to the agent D?	below	1
+1 H is above O and to the left of O.
+2 W is sitting at the lower right position to H.
+3 What is the relation of the agent W to the agent H?	lower-right	1
+1 O is under K.
+2 F is to the right of K.
+3 What is the relation of the agent K to the agent O?	above	1
+1 E and H are both there with the object E is to the left of object H.
+2 H and O are horizontal and H is to the right of O.
+3 What is the relation of the agent E to the agent O?	left	1
+1 C is to the left of M and is on the same horizontal plane.
+2 C is positioned in the top left corner of A.
+3 What is the relation of the agent A to the agent C?	lower-right	1
+1 If C is the center of a clock face, E is located between 7 and 8.
+2 D and E are parallel, and D is on top of E.
+3 What is the relation of the agent D to the agent C?	left	1
+1 J is positioned left to W.
+2 W is there and K is at the 10 position of a clock face.
+3 What is the relation of the agent W to the agent K?	upper-right	1
+1 The object K is positioned above and to the left of object I.
+2 I is to the right and above X at an angle of about 45 degrees.
+3 What is the relation of the agent I to the agent X?	upper-right	1
+1 Z presents over E.
+2 F is directly south west of Z.
+3 What is the relation of the agent E to the agent F?	right	1
+1 I is slightly off center to the top left and E is slightly off center to the bottom right.
+2 E is on the top and U is at the bottom.
+3 What is the relation of the agent U to the agent I?	lower-right	1
+1 W and A are parallel, and W is to the right of A.
+2 O is north west of W.
+3 What is the relation of the agent A to the agent W?	right	1
+1 G is at a 45 degree angle to Y, in the upper lefthand corner.
+2 B is to the right and above G at an angle of about 45 degrees.
+3 What is the relation of the agent G to the agent Y?	upper-left	1
+1 T is south east of S.
+2 Object S is below object G and to the left of it, too.
+3 What is the relation of the agent S to the agent T?	upper-left	1
+1 Z is positioned above and to the left of G.
+2 Z is to the bottom-left of F.
+3 What is the relation of the agent F to the agent Z?	upper-right	1
+1 N is diagonally above G to the right at a 45 degree.
+2 The object N is lower and slightly to the right of the object X.
+3 What is the relation of the agent X to the agent G?	above	1
+1 B is positioned down and to the left of L.
+2 B is above Z at 10 o'clock.
+3 What is the relation of the agent B to the agent L?	lower-left	1
+1 Z is sitting at the top position to S.
+2 Z and J are both there with the object Z is to the left of object J.
+3 What is the relation of the agent J to the agent S?	upper-right	1
+1 T is to the left of U and is on the same horizontal plane.
+2 U is to the upper left of N.
+3 What is the relation of the agent U to the agent N?	upper-left	1
+1 E is diagonally to the upper right of N.
+2 H and N are next to each other with H on the top and N at the bottom.
+3 What is the relation of the agent H to the agent E?	upper-right	1
+1 Q is sitting at the 6:00 position to K.
+2 Q is to the upper left of X.
+3 What is the relation of the agent Q to the agent K?	below	1
+1 The object H and A are there. The object A is above and slightly to the left of the object H.
+2 A is lower left to B.
+3 What is the relation of the agent A to the agent H?	upper-left	1
+1 T is to the top-right of P.
+2 T is above and to the right of S.
+3 What is the relation of the agent T to the agent P?	upper-right	1
+1 The object Z is upper and slightly to the right of the object Q.
+2 Object O is below object Z and to the left of it, too.
+3 What is the relation of the agent O to the agent Q?	overlap	1
+1 K is upper left of M.
+2 M is slightly off center to the top left and I is slightly off center to the bottom right.
+3 What is the relation of the agent M to the agent I?	upper-left	1
+1 If L is the center of a clock face, Q is located between 2 and 3.
+2 L is positioned above Z and to the right.
+3 What is the relation of the agent L to the agent Z?	upper-right	1
+1 W is sitting at the 6:00 position to J.
+2 W is below L with a small gap between them.
+3 What is the relation of the agent J to the agent L?	overlap	1
+1 If D is the center of a clock face, A is located between 4 and 5.
+2 Object P is below object D and to the right of it, too.
+3 What is the relation of the agent A to the agent D?	lower-right	1
+1 J is sitting at the 12:00 position to H.
+2 J is over there and R is at the bottom of it.
+3 What is the relation of the agent R to the agent J?	below	1
+1 C is directly south west of Z.
+2 Z is above E.
+3 What is the relation of the agent C to the agent Z?	lower-left	1
+1 The object Q is lower and slightly to the right of the object S.
+2 The object Q is positioned above and to the right of the object D.
+3 What is the relation of the agent Q to the agent D?	upper-right	1
+1 K is above and to the right of F.
+2 U is positioned down and to the left of K.
+3 What is the relation of the agent F to the agent U?	overlap	1
+1 J is north east of U.
+2 Y is over there and U is at the bottom of it.
+3 What is the relation of the agent J to the agent U?	upper-right	1
+1 W and N are side by side with N at the bottom and W on the top.
+2 N is on top of F.
+3 What is the relation of the agent F to the agent W?	below	1
+1 V is there and Y is at the 2 position of a clock face V.
+2 V and S are both there with the object V is to the right of object S.
+3 What is the relation of the agent V to the agent S?	left	1
+1 L is south west of T.
+2 C is at the 12 o'clock position relative to L.
+3 What is the relation of the agent T to the agent C?	right	1
+1 N is to the bottom-right of U.
+2 G is diagonally above U to the right at a 45 degree.
+3 What is the relation of the agent N to the agent U?	lower-right	1
+1 The object O is positioned directly below the object N.
+2 T is upper left of N.
+3 What is the relation of the agent T to the agent N?	upper-left	1
+1 G is to the right of O horizontally.
+2 Z is diagonally right and above G.
+3 What is the relation of the agent G to the agent O?	right	1
+1 C and K are next to each other with K at the bottom C on the top.
+2 B is placed on the top of K.
+3 What is the relation of the agent K to the agent C?	below	1
+1 X is sitting in the left direction of N.
+2 Z is to the top right of N.
+3 What is the relation of the agent X to the agent N?	left	1
+1 The object L is lower and slightly to the right of the object S.
+2 K is south east of L.
+3 What is the relation of the agent L to the agent S?	lower-right	1
+1 E is above I.
+2 F and I are side by side with F to the right and I to the left.
+3 What is the relation of the agent I to the agent E?	below	1
+1 R and C are next to each other with R on the top and C at the bottom.
+2 C and X are in a vertical line with C on top.
+3 What is the relation of the agent X to the agent R?	below	1
+1 Y is above and to the right of I.
+2 Y is positioned left to T.
+3 What is the relation of the agent Y to the agent T?	left	1
+1 W and S are both there with the object S below the object W.
+2 Z is over S.
+3 What is the relation of the agent W to the agent Z?	overlap	1
+1 Y is on the same vertical plane directly above J.
+2 Y is placed on the top of V.
+3 What is the relation of the agent J to the agent Y?	below	1
+1 Z is to the top-left of G.
+2 The object Z and A are there. The object A is above and slightly to the left of the object Z.
+3 What is the relation of the agent A to the agent G?	upper-left	1
+1 N presents right to D.
+2 The object D is lower and slightly to the right of the object K.
+3 What is the relation of the agent D to the agent K?	lower-right	1
+1 The object U and Y are there. The object U is below and slightly to the right of the object Y.
+2 Y is positioned left to N.
+3 What is the relation of the agent U to the agent Y?	lower-right	1
+1 J is to the right of X and is on the same horizontal plane.
+2 Z is above J and to the right of J.
+3 What is the relation of the agent J to the agent Z?	lower-left	1
+1 L is sitting at the lower position to T.
+2 L is to the left of D with a small gap between them.
+3 What is the relation of the agent D to the agent L?	right	1
+1 G is diagonally to the upper right of Y.
+2 F is below Y and to the left of Y.
+3 What is the relation of the agent F to the agent G?	overlap	1
+1 M is placed at the upper left of K.
+2 P is above and to the right of K.
+3 What is the relation of the agent K to the agent P?	lower-left	1
+1 Q is upper left of K.
+2 K is to the top right of Z.
+3 What is the relation of the agent K to the agent Q?	lower-right	1
+1 Z is over there and H is on the top of it.
+2 H is on the lower left of L.
+3 What is the relation of the agent Z to the agent L?	lower-left	1
+1 W presents right to C.
+2 N is over there and W is on the right of it.
+3 What is the relation of the agent C to the agent N?	overlap	1
+1 D is on the top of O and is on the same vertical plane.
+2 P is on the left side of and below O.
+3 What is the relation of the agent D to the agent P?	upper-right	1
+1 The object C is positioned directly above the object B.
+2 C is to the right of Y horizontally.
+3 What is the relation of the agent C to the agent Y?	right	1
+1 R is diagonally to the bottom right of H.
+2 L is on the same vertical plane directly above R.
+3 What is the relation of the agent H to the agent R?	upper-left	1
+1 J presents left to E.
+2 Y is to the bottom-left of J.
+3 What is the relation of the agent Y to the agent J?	lower-left	1
+1 R is to the right of D and is on the same horizontal plane.
+2 The object Y is positioned above and to the right of the object D.
+3 What is the relation of the agent Y to the agent D?	upper-right	1
+1 J is to the left of Y and is on the same horizontal plane.
+2 Y and M are both there with the object Y is to the right of object M.
+3 What is the relation of the agent M to the agent J?	right	1
+1 K presents right to J.
+2 K is positioned above B.
+3 What is the relation of the agent B to the agent K?	below	1
+1 B presents left to X.
+2 X and H are in a horizontal line with H on the right.
+3 What is the relation of the agent X to the agent B?	right	1
+1 K and U are side by side with K to the left and U to the right.
+2 Z is at the 6 o'clock position relative to K.
+3 What is the relation of the agent U to the agent K?	right	1
+1 K is to the bottom right of W.
+2 C is below and to the right of W.
+3 What is the relation of the agent K to the agent C?	overlap	1
+1 L is below R with a small gap between them.
+2 L and Q are next to each other with L on the left and Q on the right.
+3 What is the relation of the agent Q to the agent R?	lower-right	1
+1 O is on the top side to B.
+2 Q is over there and O is on the top of it.
+3 What is the relation of the agent B to the agent O?	below	1
+1 C is positioned below E.
+2 T is at the 6 o'clock position relative to E.
+3 What is the relation of the agent T to the agent C?	overlap	1
+1 Z is directly above Y.
+2 Z is diagonally right and below R.
+3 What is the relation of the agent R to the agent Y?	upper-left	1
+1 A is sitting at the top position to U.
+2 C is to the left of A.
+3 What is the relation of the agent C to the agent A?	left	1
+1 B is over H.
+2 H is on the top and W is at the bottom.
+3 What is the relation of the agent W to the agent B?	below	1
+1 U is sitting at the lower position to C.
+2 C and K are vertical and C is below K.
+3 What is the relation of the agent K to the agent C?	above	1
+1 N is at the 12 o'clock position relative to X.
+2 F is below and to the left of X.
+3 What is the relation of the agent N to the agent X?	above	1
+1 X and C are in a horizontal line with X on the left.
+2 S and C are side by side with S on the top and C at the bottom.
+3 What is the relation of the agent S to the agent C?	above	1
+1 P is sitting at the upper left position to E.
+2 P is above F with a small gap between them.
+3 What is the relation of the agent E to the agent P?	lower-right	1
+1 I is there and F is at the 5 position of a clock face.
+2 T is over there and F is on the right of it.
+3 What is the relation of the agent I to the agent F?	upper-left	1
+1 K is to the right and above Z at an angle of about 45 degrees.
+2 Q is positioned in the lower left corner of Z.
+3 What is the relation of the agent Z to the agent Q?	upper-right	1
+1 S is at the 12 o'clock position relative to M.
+2 M and K are vertical and M is above K.
+3 What is the relation of the agent K to the agent M?	below	1
+1 I is to the right and above N at an angle of about 45 degrees.
+2 N is placed at the upper right of F.
+3 What is the relation of the agent F to the agent I?	lower-left	1
+1 I is above X and to the right of X.
+2 I is on top of M.
+3 What is the relation of the agent M to the agent I?	below	1
+1 Object T is above object J and to the left of it, too.
+2 K is to the right and above T at an angle of about 45 degrees.
+3 What is the relation of the agent K to the agent J?	above	1
+1 U is to the left of J.
+2 V is diagonally to the upper right of J.
+3 What is the relation of the agent V to the agent U?	below	1
