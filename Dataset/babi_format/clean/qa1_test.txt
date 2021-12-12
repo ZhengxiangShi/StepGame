@@ -380,7 +380,7 @@
 2 What is the relation of the agent C to the agent Y?	left	1
 1 G is on the top side to I.
 2 What is the relation of the agent G to the agent I?	above	1
-1 I is there and C is at the 2 position of a clock face I.
+1 I is there and C is at the 2 position of a clock face.
 2 What is the relation of the agent C to the agent I?	upper-right	1
 1 T is to the right and above X at an angle of about 45 degrees.
 2 What is the relation of the agent X to the agent T?	lower-right	1
@@ -744,7 +744,7 @@
 2 What is the relation of the agent J to the agent A?	right	1
 1 The object Y is upper and slightly to the left of the object C.
 2 What is the relation of the agent Y to the agent C?	upper-left	1
-1 B is there and G is at the 2 position of a clock face B.
+1 B is there and G is at the 2 position of a clock face.
 2 What is the relation of the agent B to the agent G?	lower-left	1
 1 W is above M with a small gap between them.
 2 What is the relation of the agent W to the agent M?	above	1
@@ -1456,7 +1456,7 @@
 2 What is the relation of the agent F to the agent L?	lower-left	1
 1 The object V is positioned above and to the left of object S.
 2 What is the relation of the agent S to the agent V?	lower-right	1
-1 Y is there and B is at the 2 position of a clock face Y.
+1 Y is there and B is at the 2 position of a clock face.
 2 What is the relation of the agent B to the agent Y?	upper-right	1
 1 R is to the top-left of Y.
 2 What is the relation of the agent Y to the agent R?	lower-right	1
@@ -1754,7 +1754,7 @@
 2 What is the relation of the agent K to the agent M?	left	1
 1 X is placed at the bottom of B.
 2 What is the relation of the agent X to the agent B?	above	1
-1 K is there and R is at the 2 position of a clock face K.
+1 K is there and R is at the 2 position of a clock face.
 2 What is the relation of the agent K to the agent R?	lower-left	1
 1 P is to the left of V and below V at approximately a 45 degree angle.
 2 What is the relation of the agent V to the agent P?	upper-right	1
@@ -3162,7 +3162,7 @@
 2 What is the relation of the agent A to the agent T?	below	1
 1 U is over there and K is on the left of it.
 2 What is the relation of the agent U to the agent K?	right	1
-1 D is there and F is at the 2 position of a clock face D.
+1 D is there and F is at the 2 position of a clock face.
 2 What is the relation of the agent F to the agent D?	upper-right	1
 1 H and L are both there with the object H is to the right of object L.
 2 What is the relation of the agent H to the agent L?	left	1
@@ -3650,7 +3650,7 @@
 2 What is the relation of the agent W to the agent S?	right	1
 1 Q is over there and U is directly above it.
 2 What is the relation of the agent Q to the agent U?	below	1
-1 E is there and U is at the 2 position of a clock face E.
+1 E is there and U is at the 2 position of a clock face.
 2 What is the relation of the agent U to the agent E?	upper-right	1
 1 The object labeled X is positioned to the left of the object labeled A.
 2 What is the relation of the agent A to the agent X?	right	1
@@ -3724,7 +3724,7 @@
 2 What is the relation of the agent C to the agent H?	above	1
 1 The objects B and V are over there. The object B is above and slightly to the right of the object V.
 2 What is the relation of the agent B to the agent V?	upper-right	1
-1 G is there and C is at the 2 position of a clock face G.
+1 G is there and C is at the 2 position of a clock face.
 2 What is the relation of the agent C to the agent G?	upper-right	1
 1 X and Q are side by side with X to the left and Q to the right.
 2 What is the relation of the agent X to the agent Q?	left	1
@@ -3998,7 +3998,7 @@
 2 What is the relation of the agent G to the agent C?	right	1
 1 The object T is positioned above and to the left of object Y.
 2 What is the relation of the agent T to the agent Y?	upper-left	1
-1 V is there and D is at the 2 position of a clock face V.
+1 V is there and D is at the 2 position of a clock face.
 2 What is the relation of the agent D to the agent V?	upper-right	1
 1 N and C are next to each other with C at the bottom N on the top.
 2 What is the relation of the agent N to the agent C?	above	1
@@ -4438,7 +4438,7 @@
 2 What is the relation of the agent M to the agent X?	lower-right	1
 1 W and R are vertical and W is above R.
 2 What is the relation of the agent W to the agent R?	above	1
-1 W is there and D is at the 2 position of a clock face W.
+1 W is there and D is at the 2 position of a clock face.
 2 What is the relation of the agent W to the agent D?	lower-left	1
 1 X is positioned above and to the left of D.
 2 What is the relation of the agent D to the agent X?	lower-right	1
@@ -4882,7 +4882,7 @@
 2 What is the relation of the agent L to the agent V?	upper-left	1
 1 P is below K and to the left of K.
 2 What is the relation of the agent K to the agent P?	upper-right	1
-1 J is there and H is at the 2 position of a clock face J.
+1 J is there and H is at the 2 position of a clock face.
 2 What is the relation of the agent J to the agent H?	lower-left	1
 1 O is sitting at the 9:00 position of L.
 2 What is the relation of the agent O to the agent L?	left	1
@@ -4934,7 +4934,7 @@
 2 What is the relation of the agent D to the agent Z?	right	1
 1 Object L is below object O and to the left of it, too.
 2 What is the relation of the agent L to the agent O?	lower-left	1
-1 O is there and M is at the 2 position of a clock face O.
+1 O is there and M is at the 2 position of a clock face.
 2 What is the relation of the agent O to the agent M?	lower-left	1
 1 E is north west of Y.
 2 What is the relation of the agent E to the agent Y?	upper-left	1
@@ -5042,7 +5042,7 @@
 2 What is the relation of the agent J to the agent K?	upper-right	1
 1 D is positioned below P and to the right.
 2 What is the relation of the agent D to the agent P?	lower-right	1
-1 Y is there and S is at the 2 position of a clock face Y.
+1 Y is there and S is at the 2 position of a clock face.
 2 What is the relation of the agent Y to the agent S?	lower-left	1
 1 If Q is the center of a clock face, T is located between 2 and 3.
 2 What is the relation of the agent Q to the agent T?	lower-left	1
@@ -5298,7 +5298,7 @@
 2 What is the relation of the agent S to the agent X?	lower-left	1
 1 E is above I and to the right of I.
 2 What is the relation of the agent E to the agent I?	upper-right	1
-1 I is there and G is at the 2 position of a clock face I.
+1 I is there and G is at the 2 position of a clock face.
 2 What is the relation of the agent I to the agent G?	lower-left	1
 1 F is placed on the top of U.
 2 What is the relation of the agent U to the agent F?	below	1
@@ -6228,7 +6228,7 @@
 2 What is the relation of the agent Z to the agent P?	upper-left	1
 1 S is to the bottom-left of Y.
 2 What is the relation of the agent S to the agent Y?	lower-left	1
-1 K is there and P is at the 2 position of a clock face K.
+1 K is there and P is at the 2 position of a clock face.
 2 What is the relation of the agent K to the agent P?	lower-left	1
 1 A and Y are next to each other with A on the left and Y on the right.
 2 What is the relation of the agent Y to the agent A?	right	1
@@ -6858,7 +6858,7 @@
 2 What is the relation of the agent Q to the agent O?	upper-left	1
 1 X is sitting at the 6:00 position to O.
 2 What is the relation of the agent X to the agent O?	below	1
-1 E is there and T is at the 2 position of a clock face E.
+1 E is there and T is at the 2 position of a clock face.
 2 What is the relation of the agent E to the agent T?	lower-left	1
 1 Object G is below object X and to the left of it, too.
 2 What is the relation of the agent X to the agent G?	upper-right	1
@@ -7108,7 +7108,7 @@
 2 What is the relation of the agent N to the agent E?	upper-left	1
 1 I is sitting in the left direction of L.
 2 What is the relation of the agent I to the agent L?	left	1
-1 W is there and Z is at the 2 position of a clock face W.
+1 W is there and Z is at the 2 position of a clock face.
 2 What is the relation of the agent Z to the agent W?	upper-right	1
 1 The object B is positioned below and to the left of the object E.
 2 What is the relation of the agent B to the agent E?	lower-left	1
@@ -8502,7 +8502,7 @@
 2 What is the relation of the agent M to the agent Z?	lower-left	1
 1 Q is above I at 2 o'clock.
 2 What is the relation of the agent I to the agent Q?	lower-left	1
-1 D is there and L is at the 2 position of a clock face D.
+1 D is there and L is at the 2 position of a clock face.
 2 What is the relation of the agent L to the agent D?	upper-right	1
 1 T is positioned above P and to the right.
 2 What is the relation of the agent T to the agent P?	upper-right	1
@@ -9060,7 +9060,7 @@
 2 What is the relation of the agent R to the agent X?	right	1
 1 T is above M.
 2 What is the relation of the agent M to the agent T?	below	1
-1 T is there and B is at the 2 position of a clock face T.
+1 T is there and B is at the 2 position of a clock face.
 2 What is the relation of the agent B to the agent T?	upper-right	1
 1 S is positioned in the lower right corner of E.
 2 What is the relation of the agent E to the agent S?	upper-left	1
@@ -9108,7 +9108,7 @@
 2 What is the relation of the agent F to the agent U?	upper-left	1
 1 J is below and to the left of S.
 2 What is the relation of the agent J to the agent S?	lower-left	1
-1 B is there and H is at the 2 position of a clock face B.
+1 B is there and H is at the 2 position of a clock face.
 2 What is the relation of the agent H to the agent B?	upper-right	1
 1 The object B is positioned directly above the object J.
 2 What is the relation of the agent J to the agent B?	below	1
@@ -9154,7 +9154,7 @@
 2 What is the relation of the agent A to the agent P?	lower-left	1
 1 The object labeled B is positioned to the left of the object labeled T.
 2 What is the relation of the agent B to the agent T?	left	1
-1 A is there and B is at the 2 position of a clock face A.
+1 A is there and B is at the 2 position of a clock face.
 2 What is the relation of the agent B to the agent A?	upper-right	1
 1 G is to the right of Q with a small gap between them.
 2 What is the relation of the agent Q to the agent G?	left	1
@@ -9298,7 +9298,7 @@
 2 What is the relation of the agent X to the agent Q?	lower-right	1
 1 J presents below F.
 2 What is the relation of the agent F to the agent J?	below	1
-1 B is there and V is at the 2 position of a clock face B.
+1 B is there and V is at the 2 position of a clock face.
 2 What is the relation of the agent B to the agent V?	lower-left	1
 1 F is below O and to the right of O.
 2 What is the relation of the agent F to the agent O?	lower-right	1
@@ -9556,7 +9556,7 @@
 2 What is the relation of the agent O to the agent A?	left	1
 1 L is directly below J.
 2 What is the relation of the agent L to the agent J?	below	1
-1 T is there and N is at the 2 position of a clock face T.
+1 T is there and N is at the 2 position of a clock face.
 2 What is the relation of the agent N to the agent T?	upper-right	1
 1 R presents upper right to V.
 2 What is the relation of the agent V to the agent R?	lower-left	1
@@ -9590,7 +9590,7 @@
 2 What is the relation of the agent J to the agent Y?	right	1
 1 P is positioned in the front right corner of T.
 2 What is the relation of the agent P to the agent T?	upper-right	1
-1 A is there and S is at the 2 position of a clock face A.
+1 A is there and S is at the 2 position of a clock face.
 2 What is the relation of the agent S to the agent A?	upper-right	1
 1 P is directly north west of T.
 2 What is the relation of the agent P to the agent T?	upper-left	1
@@ -10226,7 +10226,7 @@
 2 What is the relation of the agent X to the agent G?	right	1
 1 O is positioned right to F.
 2 What is the relation of the agent F to the agent O?	left	1
-1 P is there and F is at the 2 position of a clock face P.
+1 P is there and F is at the 2 position of a clock face.
 2 What is the relation of the agent P to the agent F?	lower-left	1
 1 K and V are side by side with K on the top and V at the bottom.
 2 What is the relation of the agent K to the agent V?	above	1
@@ -10388,7 +10388,7 @@
 2 What is the relation of the agent I to the agent P?	below	1
 1 R is directly above S.
 2 What is the relation of the agent S to the agent R?	below	1
-1 O is there and T is at the 2 position of a clock face O.
+1 O is there and T is at the 2 position of a clock face.
 2 What is the relation of the agent O to the agent T?	lower-left	1
 1 I is diagonally to the bottom right of F.
 2 What is the relation of the agent F to the agent I?	upper-left	1
@@ -10882,7 +10882,7 @@
 2 What is the relation of the agent U to the agent C?	below	1
 1 J is diagonally to the bottom left of U.
 2 What is the relation of the agent J to the agent U?	lower-left	1
-1 X is there and L is at the 2 position of a clock face X.
+1 X is there and L is at the 2 position of a clock face.
 2 What is the relation of the agent X to the agent L?	lower-left	1
 1 R is there and V is at the 5 position of a clock face.
 2 What is the relation of the agent V to the agent R?	lower-right	1
@@ -11820,7 +11820,7 @@
 2 What is the relation of the agent W to the agent V?	left	1
 1 A is diagonally above S to the left at a 45 degree angle.
 2 What is the relation of the agent A to the agent S?	upper-left	1
-1 B is there and R is at the 2 position of a clock face B.
+1 B is there and R is at the 2 position of a clock face.
 2 What is the relation of the agent B to the agent R?	lower-left	1
 1 N is below E and to the left of E.
 2 What is the relation of the agent E to the agent N?	upper-right	1
@@ -12266,7 +12266,7 @@
 2 What is the relation of the agent J to the agent W?	right	1
 1 H is to the bottom-left of J.
 2 What is the relation of the agent H to the agent J?	lower-left	1
-1 S is there and G is at the 2 position of a clock face S.
+1 S is there and G is at the 2 position of a clock face.
 2 What is the relation of the agent S to the agent G?	lower-left	1
 1 B is diagonally to the bottom left of G.
 2 What is the relation of the agent B to the agent G?	lower-left	1
@@ -12674,7 +12674,7 @@
 2 What is the relation of the agent M to the agent Y?	upper-right	1
 1 Q is south west of Y.
 2 What is the relation of the agent Y to the agent Q?	upper-right	1
-1 V is there and T is at the 2 position of a clock face V.
+1 V is there and T is at the 2 position of a clock face.
 2 What is the relation of the agent T to the agent V?	upper-right	1
 1 I is slightly off center to the top left and Y is slightly off center to the bottom right.
 2 What is the relation of the agent I to the agent Y?	upper-left	1
@@ -12892,7 +12892,7 @@
 2 What is the relation of the agent Y to the agent J?	left	1
 1 The objects S and B are over there. The object S is lower and slightly to the left of the object B.
 2 What is the relation of the agent B to the agent S?	upper-right	1
-1 S is there and K is at the 2 position of a clock face S.
+1 S is there and K is at the 2 position of a clock face.
 2 What is the relation of the agent K to the agent S?	upper-right	1
 1 P is diagonally to the bottom right of D.
 2 What is the relation of the agent P to the agent D?	lower-right	1
@@ -13062,7 +13062,7 @@
 2 What is the relation of the agent H to the agent A?	lower-right	1
 1 Z is on the left side to D.
 2 What is the relation of the agent Z to the agent D?	left	1
-1 K is there and L is at the 2 position of a clock face K.
+1 K is there and L is at the 2 position of a clock face.
 2 What is the relation of the agent K to the agent L?	lower-left	1
 1 N is over there and J is on the right of it.
 2 What is the relation of the agent N to the agent J?	left	1
@@ -14238,7 +14238,7 @@
 2 What is the relation of the agent E to the agent S?	left	1
 1 H and Q are in a horizontal line with Q on the right.
 2 What is the relation of the agent H to the agent Q?	left	1
-1 P is there and Y is at the 2 position of a clock face P.
+1 P is there and Y is at the 2 position of a clock face.
 2 What is the relation of the agent Y to the agent P?	upper-right	1
 1 Z is placed in the left direction of D.
 2 What is the relation of the agent D to the agent Z?	right	1
@@ -14492,7 +14492,7 @@
 2 What is the relation of the agent V to the agent H?	left	1
 1 O is sitting at the 6:00 position to M.
 2 What is the relation of the agent O to the agent M?	below	1
-1 B is there and C is at the 2 position of a clock face B.
+1 B is there and C is at the 2 position of a clock face.
 2 What is the relation of the agent C to the agent B?	upper-right	1
 1 The object R is upper and slightly to the right of the object W.
 2 What is the relation of the agent W to the agent R?	lower-left	1
@@ -14504,7 +14504,7 @@
 2 What is the relation of the agent F to the agent W?	below	1
 1 A is to the top right of Q.
 2 What is the relation of the agent Q to the agent A?	lower-left	1
-1 Z is there and A is at the 2 position of a clock face Z.
+1 Z is there and A is at the 2 position of a clock face.
 2 What is the relation of the agent A to the agent Z?	upper-right	1
 1 T is placed at the lower left of E.
 2 What is the relation of the agent T to the agent E?	lower-left	1
@@ -14726,7 +14726,7 @@
 2 What is the relation of the agent G to the agent A?	lower-right	1
 1 D is sitting at the 6:00 position to V.
 2 What is the relation of the agent V to the agent D?	above	1
-1 C is there and N is at the 2 position of a clock face C.
+1 C is there and N is at the 2 position of a clock face.
 2 What is the relation of the agent C to the agent N?	lower-left	1
 1 V and D are side by side with D at the bottom and V on the top.
 2 What is the relation of the agent D to the agent V?	below	1
@@ -15298,7 +15298,7 @@
 2 What is the relation of the agent I to the agent U?	above	1
 1 R and V are next to each other with V at the bottom R on the top.
 2 What is the relation of the agent R to the agent V?	above	1
-1 C is there and G is at the 2 position of a clock face C.
+1 C is there and G is at the 2 position of a clock face.
 2 What is the relation of the agent G to the agent C?	upper-right	1
 1 D is to the right of E horizontally.
 2 What is the relation of the agent E to the agent D?	left	1
@@ -15978,7 +15978,7 @@
 2 What is the relation of the agent C to the agent L?	lower-left	1
 1 A is to the left of V and is on the same horizontal plane.
 2 What is the relation of the agent A to the agent V?	left	1
-1 F is there and U is at the 2 position of a clock face F.
+1 F is there and U is at the 2 position of a clock face.
 2 What is the relation of the agent F to the agent U?	lower-left	1
 1 B is diagonally below W to the left at a 45 degree angle.
 2 What is the relation of the agent B to the agent W?	lower-left	1
@@ -16178,7 +16178,7 @@
 2 What is the relation of the agent N to the agent G?	lower-left	1
 1 H is at a 45 degree angle to P, in the upper lefthand corner.
 2 What is the relation of the agent H to the agent P?	upper-left	1
-1 X is there and O is at the 2 position of a clock face X.
+1 X is there and O is at the 2 position of a clock face.
 2 What is the relation of the agent X to the agent O?	lower-left	1
 1 B is above K.
 2 What is the relation of the agent B to the agent K?	above	1
@@ -16406,7 +16406,7 @@
 2 What is the relation of the agent J to the agent C?	left	1
 1 U and L are side by side with U on the top and L at the bottom.
 2 What is the relation of the agent U to the agent L?	above	1
-1 Y is there and B is at the 2 position of a clock face Y.
+1 Y is there and B is at the 2 position of a clock face.
 2 What is the relation of the agent Y to the agent B?	lower-left	1
 1 V is directly above I.
 2 What is the relation of the agent V to the agent I?	above	1
@@ -16572,7 +16572,7 @@
 2 What is the relation of the agent S to the agent N?	upper-right	1
 1 R is on the right side and top of G.
 2 What is the relation of the agent R to the agent G?	upper-right	1
-1 V is there and R is at the 2 position of a clock face V.
+1 V is there and R is at the 2 position of a clock face.
 2 What is the relation of the agent V to the agent R?	lower-left	1
 1 J is diagonally right and above Z.
 2 What is the relation of the agent J to the agent Z?	upper-right	1
@@ -17516,7 +17516,7 @@
 2 What is the relation of the agent X to the agent A?	upper-left	1
 1 The object I is positioned above and to the right of the object O.
 2 What is the relation of the agent I to the agent O?	upper-right	1
-1 Q is there and X is at the 2 position of a clock face Q.
+1 Q is there and X is at the 2 position of a clock face.
 2 What is the relation of the agent X to the agent Q?	upper-right	1
 1 The object Z is lower and slightly to the right of the object L.
 2 What is the relation of the agent L to the agent Z?	upper-left	1
@@ -17644,7 +17644,7 @@
 2 What is the relation of the agent Y to the agent C?	upper-left	1
 1 The object A is positioned above and to the right of the object J.
 2 What is the relation of the agent A to the agent J?	upper-right	1
-1 N is there and W is at the 2 position of a clock face N.
+1 N is there and W is at the 2 position of a clock face.
 2 What is the relation of the agent W to the agent N?	upper-right	1
 1 I is there and C is at the 10 position of a clock face.
 2 What is the relation of the agent C to the agent I?	lower-left	1
@@ -17708,7 +17708,7 @@
 2 What is the relation of the agent D to the agent C?	lower-left	1
 1 B is on the same horizontal plane directly right to I.
 2 What is the relation of the agent I to the agent B?	left	1
-1 Y is there and P is at the 2 position of a clock face Y.
+1 Y is there and P is at the 2 position of a clock face.
 2 What is the relation of the agent P to the agent Y?	upper-right	1
 1 J and G are next to each other with G on the right and J on the left.
 2 What is the relation of the agent J to the agent G?	left	1
@@ -18210,7 +18210,7 @@
 2 What is the relation of the agent F to the agent G?	upper-right	1
 1 C and J are parallel, and C is to the right of J.
 2 What is the relation of the agent C to the agent J?	left	1
-1 N is there and R is at the 2 position of a clock face N.
+1 N is there and R is at the 2 position of a clock face.
 2 What is the relation of the agent N to the agent R?	lower-left	1
 1 Y is to the left of E and is on the same horizontal plane.
 2 What is the relation of the agent E to the agent Y?	right	1
@@ -18948,7 +18948,7 @@
 2 What is the relation of the agent K to the agent Q?	right	1
 1 Y is to the left of Z with a small gap between them.
 2 What is the relation of the agent Z to the agent Y?	right	1
-1 Q is there and M is at the 2 position of a clock face Q.
+1 Q is there and M is at the 2 position of a clock face.
 2 What is the relation of the agent M to the agent Q?	upper-right	1
 1 Q is to the upper left of T.
 2 What is the relation of the agent Q to the agent T?	upper-left	1
@@ -18978,7 +18978,7 @@
 2 What is the relation of the agent C to the agent E?	lower-left	1
 1 M is lower left to P.
 2 What is the relation of the agent M to the agent P?	lower-left	1
-1 C is there and X is at the 2 position of a clock face C.
+1 C is there and X is at the 2 position of a clock face.
 2 What is the relation of the agent C to the agent X?	lower-left	1
 1 K is under B.
 2 What is the relation of the agent K to the agent B?	below	1
@@ -19370,7 +19370,7 @@
 2 What is the relation of the agent M to the agent K?	above	1
 1 Object S is above object E and to the left of it, too.
 2 What is the relation of the agent S to the agent E?	upper-left	1
-1 E is there and Z is at the 2 position of a clock face E.
+1 E is there and Z is at the 2 position of a clock face.
 2 What is the relation of the agent Z to the agent E?	upper-right	1
 1 M presents lower right to O.
 2 What is the relation of the agent O to the agent M?	upper-left	1
@@ -19658,7 +19658,7 @@
 2 What is the relation of the agent U to the agent H?	upper-left	1
 1 M is at a 45 degree angle to P, in the lower lefthand corner.
 2 What is the relation of the agent P to the agent M?	upper-right	1
-1 J is there and L is at the 2 position of a clock face J.
+1 J is there and L is at the 2 position of a clock face.
 2 What is the relation of the agent L to the agent J?	upper-right	1
 1 D presents left to G.
 2 What is the relation of the agent G to the agent D?	right	1

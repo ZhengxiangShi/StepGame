@@ -222,7 +222,7 @@ def object1_upright_object2(object_1, object_2):
         "BB is diagonally right and above AA.",
         "BB is placed at the upper right of AA.",
         "BB is sitting at the upper right position to AA.",
-        "AA is there and BB is at the 2 position of a clock face AA.",
+        "AA is there and BB is at the 2 position of a clock face.",
         "BB is to the right and above AA at an angle of about 45 degrees.",
         "BB is north east of AA.",
         "BB is above and to the right of AA.",
