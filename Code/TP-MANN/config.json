@@ -1,0 +1,34 @@
+{
+  "model": {
+    "symbol_size": 256,
+    "entity_size": 200,
+    "hidden_size": 200,
+    "role_size": 80,
+    "layers": 8,
+    "init_limit": 0.10,
+    "LN": true
+    },
+  "trainer":{
+    "steps": 1000000,
+    "epochs": 75,
+    "batch_size": 40,
+    "validation_step": 200,
+    "logging_step": 50,
+    "use_cuda": true
+  },
+  "data":{
+    "data_path": "../Dataset/babi_format/clean"
+  },
+  "optimizer":{
+    "lr": 0.001,
+    "beta1": 0.9,
+    "beta2": 0.99,
+    "max_gradient_norm": 5,
+    "warm_up": true,
+    "warm_up_steps": 1,
+    "warm_up_factor": 0.1,
+    "decay": true,
+    "decay_thr": 0.1,
+    "decay_factor": 0.5
+  }
+}
