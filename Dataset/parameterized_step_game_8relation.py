@@ -211,7 +211,7 @@ if __name__ == "__main__":
     np.random.seed(args.seed)
 
     # train_size_set = [10000, 10000, 10000, 10000, 10000, 10000, 10000, 10000, 10000, 10000]
-    train_size_set = [30000]*10
+    train_size_set = [10000]*10
     test_size = 10000
     valid_size = 1000
 
