@@ -14,3 +14,9 @@ Please change the data_path in the config file from "clean" to "noise".
 ```
 python train.py --eval-test --path saved_models
 ```
+
+## Code Reference
+```
+[1]: https://github.com/thaihungle/SAM
+[2]: https://github.com/APodolskiy/TPR-RNN-Torch
+```

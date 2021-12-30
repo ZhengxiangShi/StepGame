@@ -1,7 +1,7 @@
 # StepGame: A New Benchmark for Robust Multi-Hop Spatial Reasoning in Texts
 
 ## Description
-Here are the dataset and codes for the AAAI 2022 paper "**StepGame: A New Benchmark for Robust Multi-Hop Spatial Reasoning in Texts**".
+Here are the dataset and codes for the AAAI 2022 paper "[**StepGame: A New Benchmark for Robust Multi-Hop Spatial Reasoning in Texts**](https://www.researchgate.net/publication/357159030_StepGame_A_New_Benchmark_for_Robust_Multi-Hop_Spatial_Reasoning_in_Texts)".
 
 
 ## Citation
