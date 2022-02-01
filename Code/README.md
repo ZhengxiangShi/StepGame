@@ -3,7 +3,12 @@
 ## Environment
 - python=3.8.5
 - torch=1.7.1
-   
+
+## Settings
+* During the training, clean samples with k=1,2,3,4,5 are fed into models together, namely there are totally 5 * 10k samples for training. 
+* During the validation and testing, noise samples with k=1,2,3,4,5 are used in the table 2 and samples with k=6,7,8,9,10 are used in the table 3. 
+* **Please note that not all samples in the dataset are used in our paper.** 
+  
 ## Training
 ```
 python train.py --path saved_models
