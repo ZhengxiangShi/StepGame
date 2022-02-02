@@ -1,6 +1,6 @@
 # Dataset
 
-### 1. Dataset format
+## 1. Dataset format
 We provide two formats of our StepGame dataset, which are completely the same except the file format.
 
 `babi_format` is  used for baselines models in the our paper.
