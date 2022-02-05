@@ -17,7 +17,7 @@
     "use_cuda": true
   },
   "data":{
-    "data_path": "../Dataset/babi_format/clean"
+    "data_path": "../babi_format/clean"
   },
   "optimizer":{
     "lr": 0.001,
