@@ -13,8 +13,7 @@ url = {https://www.researchgate.net/publication/357159030_StepGame_A_New_Benchma
 year = {2022},
 date = {2022-01-01},
 booktitle = {Proceedings of the Association for the Advancement of Artificial Intelligence},
-series = {AAAI '22},
-keywords = {},
+series = {AAAI 2022},
 pubstate = {published},
 tppubtype = {inproceedings}
 }
