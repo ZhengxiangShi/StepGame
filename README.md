@@ -41,7 +41,7 @@ If you have any inquiries pertaining to the code or the paper, please do not hes
 
 ## Citation
 ```
-@article{Shi_Zhang_Lipani_2022,
+@inproceedings{Shi_Zhang_Lipani_2022,
 title={StepGame: A New Benchmark for Robust Multi-Hop Spatial Reasoning in Texts},
 author={Shi, Zhengxiang and Zhang, Qiang and Lipani, Aldo},
 volume={36},
