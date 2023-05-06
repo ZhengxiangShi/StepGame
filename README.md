@@ -41,14 +41,13 @@ If you have any inquiries pertaining to the code or the paper, please do not hes
 
 ## Citation
 ```
-@inproceedings{Shi_Zhang_Lipani_2022,
+@inproceedings{stepGame2022shi,
 title={StepGame: A New Benchmark for Robust Multi-Hop Spatial Reasoning in Texts},
 author={Shi, Zhengxiang and Zhang, Qiang and Lipani, Aldo},
 volume={36},
 url={https://ojs.aaai.org/index.php/AAAI/article/view/21383},
 DOI={10.1609/aaai.v36i10.21383}, 
-number={10},
-journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
 year={2022},
 month={Jun.},
 pages={11321-11329}
