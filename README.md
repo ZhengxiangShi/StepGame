@@ -33,6 +33,7 @@ We offer two variations of our StepGame dataset, both of which are identical in 
 ### Generate more samples
 You can produce additional samples by executing the following command:
 ```
+cd Code
 python parameterized_step_game_8relation.py --seed 123
 ```
 

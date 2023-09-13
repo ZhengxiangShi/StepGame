@@ -2,7 +2,7 @@
 .DS_Store
 Code/.DS_Store
 Code/convert_babiformat_to_jsonformat.ipynb
-Code/parameterized_step_game_8relation.py
+# Code/parameterized_step_game_8relation.py
 Dataset/.DS_Store
 
 # Byte-compiled / optimized / DLL files
