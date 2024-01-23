@@ -165,11 +165,11 @@ def object1_below_object2(object_1, object_2):
         "AA and BB are in a vertical line with BB below AA.",
         "BB is below AA with a small gap between them.",
         "BB is on the same vertical plane directly below AA.",
-        "AA is at the bottom of BB and is on the same vertical plane.",
+        "BB is at the bottom of AA and is on the same vertical plane.",
         "AA and BB are side by side with BB at the bottom and AA on the top.",
         "AA and BB are both there with the object BB below the object AA.",
         "AA and BB are next to each other with BB at the bottom AA on the top.",
-        "AA presents below BB."
+        "BB presents below AA."
     ]
     tmp = random.choice(template_candidates)
     return tmp.replace('BB', object_1).replace('AA', object_2)
@@ -231,8 +231,8 @@ def object1_upright_object2(object_1, object_2):
         "BB is positioned above AA and to the right.",
         "BB is at a 45 degree angle to AA, in the upper righthand corner.",
         "BB is diagonally above AA to the right at a 45 degree.",
-        "Object A is above object BB and to the right of it, too.",
-        "AA is diagonally to the upper right of BB.",
+        "Object BB is above object AA and to the right of it, too.",
+        "BB is diagonally to the upper right of AA.",
         "BB presents upper right to AA.",
         "If AA is the center of a clock face, BB is located between 2 and 3.",
         "BB is above AA and to the right of AA.",
