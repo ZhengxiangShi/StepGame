@@ -5,6 +5,8 @@
   <br />
 </p>
 
+- **<span style="color:red;">[News - 4 Feb 2022]</span>** We correct some typos in `Code/template.py` for dataset generation. We re-generate the dataset and update the dataset in the `Dataset` folder. Please download the latest version of the dataset.
+
 ## Quick Links
 - [StepGame: A New Benchmark for Robust Multi-Hop Spatial Reasoning in Texts](#stepgame-a-new-benchmark-for-robust-multi-hop-spatial-reasoning-in-texts)
   - [Quick Links](#quick-links)
