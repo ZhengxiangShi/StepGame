@@ -5,13 +5,15 @@
   <br />
 </p>
 
-- **<span style="color:red;">[News - 4 Feb 2022]</span>** We correct some typos in `Code/template.py` for dataset generation. We re-generate the dataset and update the dataset in the `Dataset` folder. Please download the latest version of the dataset.
+- **<span style="color:red;">[News - 4 March 2024]</span>** Please use the latest version of the dataset from HuggingFace. You can download the dataset from [here](https://huggingface.co/datasets/michaelszx/StepGame).
+- **<span style="color:red;">[News - 4 Feb 2024]</span>** We correct some typos in `Code/template.py` for dataset generation. We re-generate the dataset and update the dataset in the `Dataset` folder. Please download the latest version of the dataset.
 
 ## Quick Links
 - [StepGame: A New Benchmark for Robust Multi-Hop Spatial Reasoning in Texts](#stepgame-a-new-benchmark-for-robust-multi-hop-spatial-reasoning-in-texts)
   - [Quick Links](#quick-links)
   - [Description](#description)
   - [Our Contributions](#our-contributions)
+  - [Usage from HuggingFace Dataset](#usage-from-huggingface-dataset)
   - [StepGame Dataset](#stepgame-dataset)
     - [Version](#version)
     - [Generate more samples](#generate-more-samples)
@@ -24,6 +26,31 @@ Here are the dataset and codes for the AAAI 2022 paper "[**StepGame: A New Bench
 ## Our Contributions
 * A new benchmark for multi-hop spatial reasoning in texts.
 * A memory augmented neural network for multi-hop spatial reasoning.
+
+## Usage from HuggingFace Dataset
+You can use the StepGame dataset from HuggingFace. Here is an example of how to load the dataset from HuggingFace.
+```
+from datasets import load_dataset
+dataset = load_dataset("michaelszx/StepGame")
+print(dataset)
+```
+You will get the results as follows:
+```
+DatasetDict({
+    train: Dataset({
+        features: ['story', 'question', 'label', 'k_hop'],
+        num_rows: 50000
+    })
+    validation: Dataset({
+        features: ['story', 'question', 'label', 'k_hop'],
+        num_rows: 5000
+    })
+    test: Dataset({
+        features: ['story', 'question', 'label', 'k_hop'],
+        num_rows: 100000
+    })
+})
+```
 
 ## StepGame Dataset
 ### Version
