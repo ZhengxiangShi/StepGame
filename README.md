@@ -29,7 +29,7 @@ Here are the dataset and codes for the AAAI 2022 paper "[**StepGame: A New Bench
 
 ## Usage from HuggingFace Dataset
 You can use the StepGame dataset from HuggingFace. Here is an example of how to load the dataset from HuggingFace.
-```
+```python
 from datasets import load_dataset
 dataset = load_dataset("michaelszx/StepGame")
 print(dataset)
