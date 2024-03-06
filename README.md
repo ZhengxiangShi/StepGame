@@ -35,7 +35,7 @@ dataset = load_dataset("michaelszx/StepGame")
 print(dataset)
 ```
 You will get the results as follows:
-```
+```python
 DatasetDict({
     train: Dataset({
         features: ['story', 'question', 'label', 'k_hop'],
